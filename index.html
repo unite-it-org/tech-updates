@@ -21,9 +21,7 @@
       padding: 0;
       background-color: var(--light-bg);
       line-height: 1.6;
-    }
-
-    header {
+    }    header {
       background: linear-gradient(135deg, var(--primary-color), #e35d6a);
       color: white;
       padding: 1.5rem;
@@ -33,14 +31,19 @@
       justify-content: center;
       gap: 2rem;
       text-align: center;
-    }    .header-icon {
+    }
+
+    .header-icon {
       width: 200px;
       height: 100px;
-      object-fit: contain;
-      border-radius: 1rem;
-      padding: 0.5rem;
+      object-fit: scale-down;
+      border-radius: 0.5rem;
+      padding: 1rem;
       background: white;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     header h1 {
@@ -131,7 +134,7 @@
 </head>
 
 <body>  <header>
-    <img src="./images/unite-logo.png" alt="Newsletter Icon" class="header-icon">
+    <img src="./images/header-icon.jpg" alt="Newsletter Icon" class="header-icon">
     <h1>Tech Updates - May</h1>
   </header>
   <div class="content">
