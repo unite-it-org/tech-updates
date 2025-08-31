@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unite Tech Updates – August</title>
+    <link rel="icon" href="./images/unite-icon.ico" type="image/x-icon" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* (same CSS as before) */
+        :root {
+            --primary-color: #dc3545;
+            --secondary-color: #0d6efd;
+            --light-bg: #f8f9fa;
+            --border-radius: 0.5rem;
+            --transition: all 0.3s ease;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--light-bg);
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary-color), #e35d6a);
+            color: white;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 2rem;
+            text-align: center;
+        }
+
+        .header-icon {
+            width: 200px;
+            height: 100px;
+            object-fit: scale-down;
+            border-radius: 0.5rem;
+            padding: 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        header h1 {
+            font-weight: 700;
+            margin: 0;
+            font-size: 2.5rem;
+            text-align: center;
+        }
+
+        .content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .section {
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+            margin-bottom: 2rem;
+            padding: 1.5rem;
+            background: white;
+            border-radius: var(--border-radius);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+            transition: var(--transition);
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .section:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .section img {
+            width: 300px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: var(--border-radius);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .section-content {
+            flex: 1;
+        }
+
+        .section h2 {
+            color: var(--secondary-color);
+            margin-top: 0;
+            margin-bottom: 1rem;
+            font-weight: 600;
+            font-size: 1.75rem;
+        }
+
+        .section p {
+            color: #495057;
+            margin: 0;
+            font-size: 1.1rem;
+            line-height: 1.7;
+        }
+
+        @media (max-width: 768px) {
+            header {
+                flex-direction: column;
+                gap: 1rem;
+                padding: 1rem;
+            }
+
+            .header-icon {
+                width: 160px;
+                height: 80px;
+            }
+
+            header h1 {
+                font-size: 2rem;
+            }
+
+            .section {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .section img {
+                width: 100%;
+                height: auto;
+                margin-bottom: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header> <a href="index.html" class="newsletter-link"> <img src="./images/unite-logo.png" alt="Newsletter Icon"
+                class="header-icon"> </a>
+        <h1>Tech Updates – August 2025</h1>
+    </header>
+    <div class="content"> <a href="https://www.wired.com/story/artificial-intelligence-hollywood-stability/"
+            class="section" target="_blank" rel="noopener noreferrer"> <img
+                src="https://media.wired.com/photos/68a4c03846f2ca0825d3d3fc/191:100/w_1280,c_limit/WIRED-FFStabilityAI-MarkHarris-01.jpg"
+                alt="AI Isn’t Coming for Hollywood. It Has Already Arrived">
+            <div class="section-content">
+                <h2>AI Isn’t Coming for Hollywood. It Has Already Arrived</h2>
+                <p>An early winner in the generative AI wars was near collapse—then bet everything on a star-studded
+                    comeback. Can Stability AI beat the competition?</p>
+            </div>
+        </a> <a href="https://www.wired.com/story/the-era-of-ai-generated-ransomware-has-arrived/" class="section"
+            target="_blank" rel="noopener noreferrer"> <img
+                src="https://media.wired.com/photos/68aeaf2a7cf142253a0a0226/191:100/w_1280,c_limit/GettyImages-2154076505.jpg"
+                alt="The Era of AI-Generated Ransomware Has Arrived">
+            <div class="section-content">
+                <h2>The Era of AI-Generated Ransomware Has Arrived</h2>
+                <p>Cybercriminals are increasingly using generative AI tools to fuel their attacks, with new research
+                    finding instances of AI being used to develop ransomware.</p>
+            </div>
+        </a> <a href="https://www.theverge.com/analysis/764519/ai-gemini-pixel-journal-app" class="section"
+            target="_blank" rel="noopener noreferrer"> <img
+                src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257910_AI_journaling_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                alt="AI doesn’t belong in journaling">
+            <div class="section-content">
+                <h2>AI doesn’t belong in journaling</h2>
+                <p>In July 2023, I deleted the Day One journaling app from my phone and laptop. It was perhaps the best
+                    thing I've done as a lifelong diarist. The decision was prompted by Apple announcing its Journal app
+                    at WWDC that year. In that keynote, Apple said it would u…</p>
+            </div>
+        </a> <a href="https://www.theverge.com/news/766311/anthropic-class-action-ai-piracy-authors-settlement"
+            class="section" target="_blank" rel="noopener noreferrer"> <img
+                src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK269_ANTHROPIC_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                alt="Anthropic settles AI book piracy lawsuit">
+            <div class="section-content">
+                <h2>Anthropic settles AI book piracy lawsuit</h2>
+                <p>Anthropic has settled a class action lawsuit with a group of US authors who accused the AI startup of
+                    copyright infringement. In a legal filing on Tuesday, Anthropic says it has negotiated a “proposed
+                    class settlement,” allowing it to skip a trial that would …</p>
+            </div>
+        </a> <a href="https://gizmodo.com/the-jobs-ai-is-replacing-the-fastest-2000645918" class="section"
+            target="_blank" rel="noopener noreferrer"> <img
+                src="https://gizmodo.com/app/uploads/2024/03/8ae72e58bfde8f465b4afe361026ec64.gif"
+                alt="The Jobs AI is Replacing the Fastest">
+            <div class="section-content">
+                <h2>The Jobs AI is Replacing the Fastest</h2>
+                <p>Around 92 million jobs are projected to disappear by 2030.</p>
+            </div>
+        </a> <a href="https://gizmodo.com/meta-ai-app-problems-2000643590" class="section" target="_blank"
+            rel="noopener noreferrer"> <img src="https://gizmodo.com/app/uploads/2025/01/ZuckerBerg-1200x675.jpg"
+                alt="Nobody Likes Zuckerberg’s Glitchy AI App">
+            <div class="section-content">
+                <h2>Nobody Likes Zuckerberg’s Glitchy AI App</h2>
+                <p>So far the most Meta has to show for it is a glitchy chatbot, a growing chorus of irritated users,
+                    and frustrated shareholders who would like to have something show for the billions of dollars spent
+                    on the project.</p>
+            </div>
+        </a> <a href="https://www.wired.com/story/russia-crack-down-end-to-end-encrypted-calling/" class="section"
+            target="_blank" rel="noopener noreferrer"> <img
+                src="https://media.wired.com/photos/689fad4f55cc281c2273340c/191:100/w_1280,c_limit/Secuirty-Roundup-Russia-Cracking-Down-End-to-End-Encrypted-Calling-Security.jpg"
+                alt="Russia Is Cracking Down on End-to-End Encrypted Calls">
+            <div class="section-content">
+                <h2>Russia Is Cracking Down on End-to-End Encrypted Calls</h2>
+                <p>Plus: ICE agents accidentally add a random person to a sensitive group chat, Norwegian intelligence
+                    blames the Kremlin for hacking a dam, and new facial recognition vans roam the UK.</p>
+            </div>
+        </a> <a href="https://www.theverge.com/news/766311/anthropic-class-action-ai-piracy-authors-settlement"
+            class="section" target="_blank" rel="noopener noreferrer"> <img
+                src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK269_ANTHROPIC_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                alt="Anthropic settles AI book piracy lawsuit">
+            <div class="section-content">
+                <h2>Anthropic settles AI book piracy lawsuit</h2>
+                <p>Anthropic has settled a class action lawsuit with a group of US authors who accused the AI startup of
+                    copyright infringement. In a legal filing on Tuesday, Anthropic says it has negotiated a “proposed
+                    class settlement,” allowing it to skip a trial that would …</p>
+            </div>
+        </a> <a href="https://www.theverge.com/phones/762755/fairphone-6-review-no-longer-compromise" class="section"
+            target="_blank" rel="noopener noreferrer"> <img
+                src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/fairphone-6-15.jpg?quality=90&strip=all&crop=0%2C10.739161265933%2C100%2C78.521677468133&w=1200"
+                alt="The Fairphone 6 no longer feels like a compromise (except in the US)">
+            <div class="section-content">
+                <h2>The Fairphone 6 no longer feels like a compromise (except in the US)</h2>
+                <p>The Fairphone 6 arrives almost two years after the 5, a testament to the company's approach to the
+                    upgrade cycle. If anything, I suspect the company would be frustrated if Fairphone 5 owners were
+                    considering a new model already - these are phones to keep, to …</p>
+            </div>
+        </a> <a href="https://gizmodo.com/nasa-and-ibm-unveil-ai-that-helps-scientists-forecast-solar-storms-2000645123"
+            class="section" target="_blank" rel="noopener noreferrer"> <img
+                src="https://gizmodo.com/app/uploads/2025/08/Surya-model-output-1200x675.jpg"
+                alt="NASA and IBM Unveil AI That Helps Scientists Forecast Solar Storms">
+            <div class="section-content">
+                <h2>NASA and IBM Unveil AI That Helps Scientists Forecast Solar Storms</h2>
+                <p>Experts recently identified major gaps in their ability to forecast space weather. Surya aims to fill
+                    them.</p>
+            </div>
+        </a> <a href="https://www.theverge.com/games/760213/dead-take-review-fmv-horror-game-ben-starr" class="section"
+            target="_blank" rel="noopener noreferrer"> <img
+                src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/ss_25c30235973cf1294ffa1c31d20ca6631432bc5c.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+                alt="Dead Take’s best scares come from real-life performances">
+            <div class="section-content">
+                <h2>Dead Take’s best scares come from real-life performances</h2>
+                <p>Dead Take, the second game from Tales of Kenzera: Zau developer Surgent Studios, is a quiet horror
+                    game where the monster is ambition and the lengths a person will go for stardom. Like a lot of
+                    horror games, Dead Take relies on jumpscares to get the heart pum…</p>
+            </div>
+        </a> <a href="https://www.theverge.com/games/767490/elden-ring-nightreign-expansion-deep-of-night"
+            class="section" target="_blank" rel="noopener noreferrer"> <img
+                src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/ELDEN-RING-NIGHTREIGN-DeepOfNight-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+                alt="Elden Ring Nightreign is getting even harder in September">
+            <div class="section-content">
+                <h2>Elden Ring Nightreign is getting even harder in September</h2>
+                <p>If FromSoftware’s multiplayer take on Elden Ring was just a little too easy for you, the developer
+                    has just the thing coming up. The studio announced “Deep of Night,” a new mode for Nightreign that
+                    is focused specifically on difficulty. Namely, it sounds like…</p>
+            </div>
+        </a> <a
+            href="https://gizmodo.com/nvidia-unveils-high-tech-brain-for-humanoid-robots-and-self-driving-cars-2000647946"
+            class="section" target="_blank" rel="noopener noreferrer"> <img
+                src="https://gizmodo.com/app/uploads/2025/01/Nvidia-CEO-Jensen-Huang-RTX-50-Series-GPU-1-1200x675.jpg"
+                alt="Nvidia Unveils High-Tech ‘Brain’ for Humanoid Robots and Self-Driving Cars">
+            <div class="section-content">
+                <h2>Nvidia Unveils High-Tech ‘Brain’ for Humanoid Robots and Self-Driving Cars</h2>
+                <p>The new module is built to handle larger amounts of information, faster and more efficiently.</p>
+            </div>
+        </a> <a href="https://gizmodo.com/heres-when-you-can-skip-work-for-the-iphone-17-launch-event-2000647461"
+            class="section" target="_blank" rel="noopener noreferrer"> <img
+                src="https://gizmodo.com/app/uploads/2025/07/timcookpic-1200x675.jpg"
+                alt="Here’s When You Can Skip Work for the iPhone 17 Launch Event">
+            <div class="section-content">
+                <h2>Here’s When You Can Skip Work for the iPhone 17 Launch Event</h2>
+                <p>We have an official date for Apple's big fall event, where it'll announce new iPhones, Apple Watches,
+                    and possibly more.</p>
+            </div>
+        </a> <a href="https://www.bbc.com/news/articles/ckgj9kjmvzzo" class="section" target="_blank"
+            rel="noopener noreferrer"> <img
+                src="https://ichef.bbci.co.uk/news/1024/branded_news/d867/live/8df2c140-8295-11f0-bda8-213e434b329e.jpg"
+                alt="Apple warns UK against introducing tougher tech regulation">
+            <div class="section-content">
+                <h2>Apple warns UK against introducing tougher tech regulation</h2>
+                <p>The iPhone maker is pushing back against proposed changes required by the UK competition watchdog</p>
+            </div>
+        </a> </div>
+</body>
+
+</html>
