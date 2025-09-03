@@ -27,6 +27,6 @@
   <rect x="121.5" y="10" width="7" height="14" rx="2" ry="2" fill="#000000ff"/>
 
   <!-- Text -->
-  <text x="100" y="65" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="middle">AUG</text>
+  <text x="100" y="65" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="middle">SEP</text>
   <text x="100" y="150" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="black" text-anchor="middle">2025</text>
 </svg>
