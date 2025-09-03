@@ -1,0 +1,32 @@
+<svg width="200" height="200" viewBox="0 0 200 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Calendar base -->
+  <rect x="10" y="40" width="180" height="145" rx="10" ry="10" fill="white" stroke="gray" stroke-width="4"/>
+  
+  <!-- Red header -->
+  <!-- <rect x="8" y="14" width="184" height="60" rx="15" ry="15" fill="#f0220bff"/> -->
+  
+  <svg width="208" height="100" viewBox="0 0 208 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="
+    M 23 14
+    L 177 14
+    A 15 15 0 0 1 192 29
+    L 192 74
+    L 8 74
+    L 8 29
+    A 15 15 0 0 1 23 14
+    Z" 
+    fill="#f0220bff"/>
+</svg>
+
+
+  <!-- Hanging rings -->
+  <circle cx="75" cy="22" r="6" fill="white"/>
+  <circle cx="125" cy="22" r="6" fill="white"/>
+  
+  <rect x="71.5" y="10" width="7" height="14" rx="2" ry="2" fill="#000000ff"/>
+  <rect x="121.5" y="10" width="7" height="14" rx="2" ry="2" fill="#000000ff"/>
+
+  <!-- Text -->
+  <text x="100" y="65" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="middle">JUN</text>
+  <text x="100" y="150" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="black" text-anchor="middle">2025</text>
+</svg>
