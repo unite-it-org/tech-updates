@@ -1,0 +1,1308 @@
+[
+  {
+    "status": "ok",
+    "totalResults": 5685,
+    "articles": [
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Julian Chokkattu",
+        "title": "Everything Amazon Announced Today at Its Fall Hardware Event (2025)",
+        "description": "Amazon's next-gen Alexa+ chatbot is now available in four new Echo devices and a bevy of Ring cameras. The company also debuted three new Kindle Scribe tablets, one with a color screen.",
+        "url": "https://www.wired.com/story/everything-amazon-announced-today-at-its-fall-hardware-event/",
+        "urlToImage": "https://media.wired.com/photos/68dc01ba71b33336ec20c076/191:100/w_1280,c_limit/DSC_6278.jpg",
+        "publishedAt": "2025-09-30T16:36:42Z",
+        "content": "Its a big year for AmazonsAlexa voice assistant. It got a large language model power-up earlier this year in the form of Alexa+ (a paid upgrade for non-Amazon Prime subscribers), and now, Amazon has … [+2045 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Jess Weatherbed",
+        "title": "Microsoft is giving Copilot AI faces you can chat with",
+        "description": "Microsoft is trying to make Copilot more approachable by giving the AI assistant an animated face to talk with. The experimental “Portraits” feature in Copilot Labs is currently available in the US, UK, and Canada, and provides 40 stylized human avatars that …",
+        "url": "https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Microsoft-Copilot-Portraits-experiment.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-09-30T17:12:48Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nCopilot Portraits provides 40 stylized human avatars that make expressions during voice conversations.\r\nCopilot Portraits provides 40 stylized human avatars that… [+3317 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Jess Weatherbed",
+        "title": "Google’s AI Mode image search is getting more conversational",
+        "description": "Google’s latest AI Mode update makes it easier for users to search through images using vague descriptions and references. The update provides a more conversational way to shop for products online, according to Google’s announcement, allowing AI Mode users to…",
+        "url": "https://www.theverge.com/news/788180/google-ai-mode-visual-search-shopping-update",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/AI-Mode-_-Blog-Hero-static.png?quality=90&strip=all&crop=0%2C3.5331803729601%2C100%2C92.93363925408&w=1200",
+        "publishedAt": "2025-09-30T09:56:45Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nUsers in the US can now shop for products using natural language descriptions and reference images.\r\nUsers in the US can now shop for products using natural lang… [+3073 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Tom Warren",
+        "title": "Microsoft’s new Security Store is like an app store for cybersecurity",
+        "description": "Microsoft is launching a Security Store that will be full of security software-as-a-service (SaaS) solutions and AI agents. It’s part of a broader effort to sell Microsoft’s Sentinel security platform to businesses, complete with Microsoft Security Copilot AI…",
+        "url": "https://www.theverge.com/news/788195/microsoft-security-store-launch-copilot-ai-agents",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-09-30T12:46:25Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nCybersecurity workers can also start creating their own Security Copilot AI agents.\r\nCybersecurity workers can also start creating their own Security Copilot AI … [+2499 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Hayden Field",
+        "title": "OpenAI’s new social video app will let you deepfake your friends",
+        "description": "OpenAI has a new version of its Sora AI video generator, and it’s being launched alongside a new social video app, also called Sora, on iOS. The app, currently invite-only, resembles TikTok. But instead of encouraging people to stitch together duets, it asks …",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/sora2_anime.jpg?quality=90&strip=all&crop=0%2C3.3643591235214%2C100%2C93.271281752957&w=1200",
+        "publishedAt": "2025-09-30T17:06:39Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe app is called Sora, and its available on iOS.\r\nThe app is called Sora, and its available on iOS.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from this author… [+2690 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Allison Johnson",
+        "title": "Alexa Plus is available out of the box on new Echo devices",
+        "description": "Amazon’s AI-powered Alexa is on its way to more homes soon. The upgraded assistant will be available straight out of the box with new hardware announced today. New Echo devices will come with Alexa Plus straight out of the box; it’ll also be available to thos…",
+        "url": "https://www.theverge.com/tech/786782/amazon-alexa-plus-availability-early-access",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-09-30T15:42:23Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons smarter assistant takes another step toward broader availability.\r\nAmazons smarter assistant takes another step toward broader availability.\r\nby\r\nAllison… [+2776 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "David Pierce",
+        "title": "My other car is a cargo bike",
+        "description": "The vehicle of the future is electric. It's good for the environment. It has enough room for your stuff, as long as you're coming from the grocery and not the furniture store. It's fast, it has super-responsive steering, and you can park it basically anywhere…",
+        "url": "https://www.theverge.com/podcast/788307/electric-cargo-bikes-google-antitrust-vergecast",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VRG_VST_0930_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-09-30T12:58:21Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: bike buses, Google trials, and AI video summaries.\r\nOn The Vergecast: bike buses, Google trials, and AI video summaries.\r\nby\r\nDavid PierceClose… [+3067 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Jay Peters",
+        "title": "Amazon’s September 2025 hardware event: all the news and announcements",
+        "description": "Amazon will kick off its 2025 fall hardware event today, September 30th, at 10AM ET / 7AM PT, and the company has already teased a few new products we should expect. Based on the company’s own event invite, it seems like we can look forward to at least two ne…",
+        "url": "https://www.theverge.com/news/786216/amazon-september-2025-hardware-event-news-announcements",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-09-30T13:33:43Z",
+        "content": "Updated Today, Sep 30, 2025, 1:30 PM UTC\r\nAmazon will kick off its 2025 fall hardware event today, September 30th, at 10AM ET / 7AM PT, and the company has already teased a few new products we should… [+3702 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Emma Roth",
+        "title": "Amazon’s 2025 hardware event: the 8 biggest announcements",
+        "description": "Amazon just finished up its fall event, where it shared big updates across its entire hardware lineup. In addition to revealing new Echo hardware and Kindle Scribe upgrades, Amazon also took the wraps off refreshed Fire TV devices and a whole bunch more. Here…",
+        "url": "https://www.theverge.com/news/788297/amazon-fall-2025-hardware-announcements-echo-alexa-kindle-ring",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/lcimg-f7091c87-2843-4d68-a8a2-0eb3b9e7e27a.webp?quality=90&strip=all&crop=0%2C10.818693401378%2C100%2C78.362613197244&w=1200",
+        "publishedAt": "2025-09-30T15:36:53Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nFrom upgraded Kindle Scribes to a slew of new Echo devices, Amazon had a lot to share.\r\nFrom upgraded Kindle Scribes to a slew of new Echo devices, Amazon had a … [+6108 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Victoria Song",
+        "title": "There’s some new Ring devices on the block",
+        "description": "Amazon just announced some new Ring hardware at its 2025 fall event. The Ring Wired Doorbell and Indoor Cam Plus both feature 2K resolution featuring something called Ring Retinal Vision. There’s also the Ring Wired Doorbell Pro 4K. It’s nice to see some new …",
+        "url": "https://www.theverge.com/news/788290/ring-amazon-hardware-event-price-specs",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Screenshot-2025-09-30-at-10.14.36%E2%80%AFAM.png?quality=90&strip=all&crop=0%2C5.9169394773853%2C100%2C88.166121045229&w=1200",
+        "publishedAt": "2025-09-30T14:17:17Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazon announced the device during its fall hardware event.\r\nAmazon announced the device during its fall hardware event.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\n… [+2014 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Todd Haselton, Jennifer Pattison Tuohy",
+        "title": "Amazon event live blog: we’re here for new Echos, Kindles and more",
+        "description": "We’re at Amazon’s fall 2025 hardware event in New York City, where the company is set to announce a bunch of new gadgets ahead of the holidays. Amazon’s teaser image for today suggested new Kindles, Echos, and maybe a TV. Whatever it is, it’s been a long time…",
+        "url": "https://www.theverge.com/tech/786685/amazon-event-live-blog-were-here-for-new-echos-kindles-and-more",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image-1-2.png?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
+        "publishedAt": "2025-09-30T13:05:30Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazon event live blog: were here for new Echos, Kindles and more\r\nAlexa Plus is already rolling out. Now its time for Amazon to put some great hardware behind i… [+3255 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Tom Warren",
+        "title": "Microsoft’s Windows 11 2025 update is available now",
+        "description": "Microsoft is rolling out its annual Windows 11 update (known as version 25H2) today. After testing the update in the Windows Insider Release Preview ring last month, version 25H2 is now starting to roll out to all Windows 11 users through Windows Update. The …",
+        "url": "https://www.theverge.com/news/788167/microsoft-windows-11-version-25h2-download-insta",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-1247086031.jpg?quality=90&strip=all&crop=0%2C6.1654211801671%2C100%2C87.669157639666&w=1200",
+        "publishedAt": "2025-09-30T11:47:42Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 25H2 update is rolling out as a small download for Windows 11 users.\r\nThe 25H2 update is rolling out as a small download for Windows 11 users.\r\nby\r\nTom Warre… [+2876 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Jess Weatherbed, Emma Roth",
+        "title": "Amazon reveals its new Echo Dot Max smart speaker",
+        "description": "Amazon took the wraps off its latest Echo Dot smart speaker during its fall hardware event on Tuesday. The Echo Dot Max is a new entry that updates the recognizable spherical design with a flat face housing the speaker’s control buttons and LED light ring. At…",
+        "url": "https://www.theverge.com/news/786811/amazon-echo-dot-max-2025-reveal-smart-speaker-alexa",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/lcimg-d86ae032-f269-42ea-a9e9-9c3847fd8057.jpg?quality=90&strip=all&crop=0%2C10.782006784713%2C100%2C78.435986430574&w=1200",
+        "publishedAt": "2025-09-30T15:06:00Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazon adds a new entry to its affordable smart speaker lineup\r\nAmazon adds a new entry to its affordable smart speaker lineup\r\nby\r\nJess WeatherbedClose\r\nJess We… [+2625 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Charles Pulliam-Moore",
+        "title": "Alien: Earth’s showrunner wanted it to be a dark reflection of our world",
+        "description": "In Alien: Earth, a techbro wunderkind controls 20 percent of the world's continental land mass, and he likes to play God in a secret lab located on a remote island. That's where the trillionaire has engineered a new pathway to human immortality, and given a g…",
+        "url": "https://www.theverge.com/entertainment/787578/alien-earth-noah-hawley-interview-season-1-finale",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/AE_107_PBR-0406-1262r.jpg?quality=90&strip=all&crop=22.3015625%2C7.631907952153%2C77.6984375%2C60.989463705889&w=1200",
+        "publishedAt": "2025-09-30T15:46:49Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nAlien: Earths showrunner wanted it to be a dark reflection of our world\r\nNoah Hawley talks about turning Alien into a TV series following the season 1 finale.\r\nb… [+11641 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Tom Warren",
+        "title": "SteelSeries Arctis Nova Elite review: $599 for premium, pricey perfection",
+        "description": "I've been hooked on SteelSeries gaming headsets ever since the Arctis Pro launched more than five years ago. The Nova range upped the quality with feature, fit, and software improvements, and the company is now going one step further with a $599.99 Nova Elite…",
+        "url": "https://www.theverge.com/tech/788141/steelseries-arctis-nova-elite-review",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/twarren_novaelite13.jpg?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
+        "publishedAt": "2025-09-30T14:04:16Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nSteelSeries has created a category of luxury gaming headsets that doesnt really exist right now.\r\nIf you buy something from a Verge link, Vox Media may earn a co… [+8357 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Raymond Wong",
+        "title": "Amazon Announces Dizzying Family of Alexa-Plus-Powered Ring Doorbell Cameras",
+        "description": "Have fun decoding what's special about each model!",
+        "url": "https://gizmodo.com/amazon-announces-dizzying-family-of-alexa-plus-powered-ring-doorbell-cameras-2000665404",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/09/amazon-ring-1-1200x675.jpg",
+        "publishedAt": "2025-09-30T14:22:47Z",
+        "content": "Beating Google to the announcement of new smart home devices by a day, Amazon today unveiled a family of new Ring doorbell cameras with “Retinal Vision”all powered by its more intelligent and convers… [+1087 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
+        "title": "Google redesigns its 'G' logo to signal the AI era is here",
+        "description": "A decade-old logo is retiring as Google rolls out a new look across its entire ecosystem.",
+        "url": "https://www.androidcentral.com/apps-software/google-redesigns-its-g-logo-to-signal-the-ai-era-is-here",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/4TPzihga6W989NvTvMFhqP-2048-80.jpg",
+        "publishedAt": "2025-09-30T16:26:00Z",
+        "content": "What you need to know\r\n<ul><li>Google’s icon “G” logo gets a new look, with the old blocky colors now gone, replaced with a clean gradient blend.</li><li>The design aligns with Gemini and other AI br… [+2182 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+        "title": "How to use all the AI editing tools in Google Photos",
+        "description": "Google revamped the Google Photos app, ditching Magic Editor in favor of separate tools for Magic Eraser, Reimagine, and more. Here's how to use them all.",
+        "url": "https://www.androidcentral.com/apps-software/ai/how-use-google-photos-ai-editing-tools",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ng7kQ8SNRxYuLUSeb58tD7-1372-80.jpg",
+        "publishedAt": "2025-09-30T16:08:16Z",
+        "content": "Google Photos just turned 10, and that anniversary brought a complete redesign for the app's editing tools. Magic Editor, a staple of the Google Photos app introduced with the Google Pixel 8 series, … [+7676 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+        "title": "Oakley Meta Vanguard vs. Meta HSTN: One for sports, one for everyday wear",
+        "description": "Meta expanded its lineup of smart glasses to include two Oakley styles, but which is right for you? Let's compare Vanguard and HSTN to find out.",
+        "url": "https://www.androidcentral.com/wearables/oakley-meta-vanguard-vs-oakley-meta-hstn",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/VA476hFjCwHij8qkptswae-2223-80.jpg",
+        "publishedAt": "2025-09-30T16:53:00Z",
+        "content": "Meta is rapidly expanding its lineup of smart glasses, and now, there are multiple Oakley styles to choose from. Oakley Meta HSTN arrived first, bringing longer battery life and better video recordin… [+7999 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Juli Clover",
+        "title": "OpenAI's Sora App Creates Realistic AI Videos of You and Your Friends",
+        "description": "OpenAI today announced the launch of Sora, an invite-only AI video app and social network. Sora lets you create realistic AI videos of yourself, friends, and other people.\n\n\n\n\n\nSora uses the Sora 2 video generation model, which OpenAI says is more physically …",
+        "url": "https://www.macrumors.com/2025/09/30/openai-sora-ai-video-app/",
+        "urlToImage": "https://images.macrumors.com/t/HKNstwugxiyNljQFSfiNDABJvjk=/1800x/article-new/2025/09/openai-sora-app.jpg",
+        "publishedAt": "2025-09-30T18:39:46Z",
+        "content": "OpenAI today announced the launch of Sora, an invite-only AI video app and social network. Sora lets you create realistic AI videos of yourself, friends, and other people.\r\nSora uses the Sora 2 video… [+1642 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Hartley Charlton",
+        "title": "Adobe Launches Premiere for iPhone and iPad",
+        "description": "Adobe today launched Premiere for iPhone and iPad, bringing its flagship video editing software to mobile devices for the first time.\n\n\n\n\n\nAccording to Adobe, the new mobile Premiere app is designed to provide \"pro-quality video editing.\" The mobile version f…",
+        "url": "https://www.macrumors.com/2025/09/30/adobe-launches-premiere-for-iphone/",
+        "urlToImage": "https://images.macrumors.com/t/huXwc-oVgQuq8JmQUOojx0pkelU=/1600x/article-new/2025/09/Adobe-Premiere-iOS-Feature.jpg",
+        "publishedAt": "2025-09-30T14:15:11Z",
+        "content": "Adobe today launched Premiere for iPhone and iPad, bringing its flagship video editing software to mobile devices for the first time.\r\nAccording to Adobe, the new mobile Premiere app is designed to p… [+1545 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "David Watsky",
+        "title": "A Genius New Kindle Feature Helps Forgetful Readers Pick up Where They Left off",
+        "description": "It might be the single best use of AI, ever.",
+        "url": "https://www.cnet.com/tech/computing/a-genius-new-kindle-feature-helps-forgetful-readers-pick-up-where-they-left-off/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/b1408b639c1f6e60f02e8fbcd1ac6e1a7be37c3d/hub/2025/09/30/5fea4c9e-ae22-4d72-b37b-3928c17f0ef1/screenshot-2025-09-30-at-1-13-10pm.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-09-30T17:27:00Z",
+        "content": "If you're the type of reader who picks up their book after a few days off (or even one) and thinks, \"What in the world is happening?\" Kindle's new Scribe, announced today, sports an AI feature that s… [+999 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Karen Brown",
+        "title": "As sports betting explodes, should states set more limits to stop gambling addiction?",
+        "description": "With concerns about addiction rising, some advocates and lawmakers call for federal regulations on the gambling industry — but would settle for more state laws to help curb excessive betting.",
+        "url": "https://www.npr.org/sections/shots-health-news/2025/09/30/nx-s1-5553428/sports-books-betting-gambling-addiction-massachusetts-gamesense",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2016x1134+0+147/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F00%2F69a242ba4bc4afdf40a3c43882ea%2Fus-mgm-floor-riches.jpg",
+        "publishedAt": "2025-09-30T09:00:00Z",
+        "content": "It's hard to promote moderation and financial discipline from the bowels of a casino.\r\nBut that's what Massachusetts state workers try to do every day, amid the clanging bells and flashing lights of … [+10612 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Deirdre Walsh",
+        "title": "Government to shut down after midnight barring last minute breakthrough in Congress",
+        "description": "Democrats and Republicans have been unable to resolve an impasse over federal healthcare spending. The government will shutdown at the end of the day on Tuesday barring a last-minute breakthrough.",
+        "url": "https://www.npr.org/2025/09/30/g-s1-91217/government-shutdown-midnight",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5392x3033+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F72%2Ffe5d2d414e99bace818aaf8ef0ca%2Fgettyimages-2237787866.jpg",
+        "publishedAt": "2025-09-30T09:00:00Z",
+        "content": "Congress seems to be careening toward a government shutdown, as Democratic and Republican leaders remain at an impasse over funding negotiations and expiring health care subsidies. Lawmakers have les… [+6425 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "msmash",
+        "title": "Kindle Scribe Redesign Adds Color Model and AI-powered Notebook Features",
+        "description": "Amazon today announced three new Kindle Scribe models, its e ink-featuring tables designed for note-taking and reading. The lineup includes the standard Kindle Scribe and a version without a front light alongside the Kindle Scribe Colorsoft. The new devices f…",
+        "url": "https://news.slashdot.org/story/25/09/30/1529241/kindle-scribe-redesign-adds-color-model-and-ai-powered-notebook-features",
+        "urlToImage": "https://a.fsdn.com/sd/topics/books_64.png",
+        "publishedAt": "2025-09-30T15:29:00Z",
+        "content": "Amazon today announced three new Kindle Scribe models, its e ink-featuring tables designed for note-taking and reading. The lineup includes the standard Kindle Scribe and a version without a front li… [+920 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "msmash",
+        "title": "Windows 11's 2025 Update Arrives",
+        "description": "Microsoft began rolling out Windows 11 version 25H2 today, delivering the annual update as a compact enablement package to users who enable the \"get the latest updates as soon as they're available\" toggle in Windows Update. The company tested the release in i…",
+        "url": "https://tech.slashdot.org/story/25/09/30/1827229/windows-11s-2025-update-arrives",
+        "urlToImage": "https://a.fsdn.com/sd/topics/windows_64.png",
+        "publishedAt": "2025-09-30T18:27:00Z",
+        "content": "Microsoft began rolling out Windows 11 version 25H2 today, delivering the annual update as a compact enablement package to users who enable the \"get the latest updates as soon as they're available\" t… [+1056 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Thibault Spirlet",
+        "title": "Students are outsourcing thought to ChatGPT — here's why educators should worry, a business professor warns",
+        "description": "Generative AI may boost efficiency, but a business professor warns it's robbing students of critical thinking and independence.",
+        "url": "https://www.businessinsider.com/ai-chatgpt-robbing-students-of-critical-thinking-professor-says-2025-9",
+        "urlToImage": "https://i.insider.com/68db9be9cc993f9955cf2b49?width=1200&format=jpeg",
+        "publishedAt": "2025-09-30T09:54:52Z",
+        "content": "Generative AI is eroding students' critical thinking and shifting control of knowledge to Big Tech, a professor warned.Feature China/Future Publishing via Getty Images\r\n<ul><li>Students are handing k… [+3414 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Ana Altchek",
+        "title": "I spoke to 7 executives this month. Here's how they're using AI at work.",
+        "description": "Some leaders used AI as an organizational tool, while others sought out coaching on public speaking or navigating hard conversations.",
+        "url": "https://www.businessinsider.com/executives-share-how-they-use-ai-2025-9",
+        "urlToImage": "https://i.insider.com/68db4041cc993f9955cf2896?width=1200&format=jpeg",
+        "publishedAt": "2025-09-30T09:50:01Z",
+        "content": "From left to right, top to bottom: Glenn Fogel, Donna Morris, Aaron Levie, Corinne Sklar, Sravana Karnati, Francine Katsoudas, Lisa Stevens.Booking Holdings, Walmart, Box, IBM, Cisco, Aon\r\n<ul><li>In… [+6470 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Henry Chandonnet",
+        "title": "Meta CMO says there are 3 things that will determine whether AI causes companies to grow or shrink head count",
+        "description": "Meta CMO Alex Schultz said that AI will grow and shrink the workforce in three ways — that is, unless AGI throws a monkey wrench into the equation.",
+        "url": "https://www.businessinsider.com/meta-cmo-ai-effect-head-count-growth-shrink-2025-9",
+        "urlToImage": "https://i.insider.com/68daccea5dbc4fd10da9c76b?width=1200&format=jpeg",
+        "publishedAt": "2025-09-30T09:59:02Z",
+        "content": "Meta CMO Alex Schultz gave one way AI would shrink head count — and two ways AI would grow it.Richard Bord/WireImage\r\n<ul><li>Meta CMO Alex Schultz said that AI will grow and shrink the workforce in … [+3314 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Lara O'Reilly",
+        "title": "This startup wants to make buying streaming TV ads as easy as advertising on Google and Meta. See the pitch deck that helped it raise $50M.",
+        "description": "Vibe says more than 5,000 brands have used its self-service TV-buying ad platform — and 10% of the ads it runs are created using generative AI.",
+        "url": "https://www.businessinsider.com/pitch-deck-ai-ads-startup-vibe-raises-series-b-2025-9",
+        "urlToImage": "https://i.insider.com/68daa175cc993f9955cf1a87?width=1200&format=jpeg",
+        "publishedAt": "2025-09-30T11:09:56Z",
+        "content": "Vibe cofounders Franck Tetzlaff and Arthur Querou.Vibe.co\r\n<ul><li>Vibe.co wants to make buying TV ads like Google and Meta advertising.</li><li>The adtech startup offers a self-service platform for … [+5500 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Theron Mohamed",
+        "title": "People are chasing AI stocks like 'dogs chase cars' — and a crash looks certain, veteran investor Bill Smead says",
+        "description": "Bill Smead said \"momentum\" is fueling the AI boom, the tech's potential is already priced in, and it's almost a replay of the dot-com bubble.",
+        "url": "https://www.businessinsider.com/ai-stocks-bubble-crash-smead-market-outlook-nvidia-openai-tech-2025-9",
+        "urlToImage": "https://i.insider.com/68dbcf30cc993f9955cf2c20?width=1200&format=jpeg",
+        "publishedAt": "2025-09-30T14:29:23Z",
+        "content": "Bill SmeadChristopher Goodney/Bloomberg via Getty Images\r\n<ul><li>The AI boom is being fueled by \"momentum\" as investors chase huge stock gains, Bill Smead said.</li><li>The value investor said surgi… [+3090 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Amanda Hoover",
+        "title": "Workslop is oozing into every corner of America's white-collar offices",
+        "description": "Are those weekly work memos getting longer and more annoying? Here's why.",
+        "url": "https://www.businessinsider.com/workslop-oozing-americas-white-collar-offices-generative-ai-2025-9",
+        "urlToImage": "https://i.insider.com/68daf2311c1f80efbec48a49?width=1200&format=jpeg",
+        "publishedAt": "2025-09-30T08:07:02Z",
+        "content": "Office workers everywhere are awash in \"workslop.\" This is the term researchers are using to call AI-generated content that might look like it completes a task at work: pretty on paper, well-organize… [+9246 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Faye Bradley",
+        "title": "Silicon Valley wasn't what it used to be, so I left. I'm now starting an AI company in Tokyo as a foreigner.",
+        "description": "At first, Eric Fung worried that, as a foreigner pitching products in Japan's tradition-bound market, no one would take him seriously.",
+        "url": "https://www.businessinsider.com/moved-to-japan-launch-ai-startup-tokyo-work-culture-colegaai-2025-9",
+        "urlToImage": "https://i.insider.com/68d642f71c1f80efbec45ca3?width=1200&format=jpeg",
+        "publishedAt": "2025-09-30T00:14:02Z",
+        "content": "Eric Fung left California to AI startup in TokyoProvided by Eric Fung\r\n<ul><li>Eric Fung grew up in New York City and moved to Silicon Valley to build startups.</li><li>He went on to open restaurants… [+5265 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Polly Thompson",
+        "title": "Deloitte's $7.6 billion UK business just posted its first revenue decline in 15 years",
+        "description": "Deloitte blamed economic headwinds and geopolitical tensions for its first decline in UK revenue since the financial crisis.",
+        "url": "https://www.businessinsider.com/deloitte-first-revenue-decline-15-years-since-financial-crisis-uk-2025-9",
+        "urlToImage": "https://i.insider.com/68da944a5dbc4fd10da9c011?width=1200&format=jpeg",
+        "publishedAt": "2025-09-30T08:44:59Z",
+        "content": "Deloitte's UK revenue declined for the first time in 15 years.Jack Taylor/Getty\r\n<ul><li>Deloitte UK's annual revenue fell 1% in its latest financial year.</li><li>Hiring and promotions were also dow… [+3378 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Lee Chong Ming",
+        "title": "TikTok's US sale shows DC and Beijing can still bargain on tech — but don't expect a repeat deal anytime soon",
+        "description": "Analysts told BI TikTok's $14 billion deal secures its US future and signals a middle ground in the fraught US-China tech rivalry.",
+        "url": "https://www.businessinsider.com/tiktok-us-sale-trump-china-tech-rivalry-ban-bargaining-2025-9",
+        "urlToImage": "https://i.insider.com/68da4b271c1f80efbec47a5b?width=1200&format=jpeg",
+        "publishedAt": "2025-09-30T07:45:11Z",
+        "content": "Analysts told BI TikTok's $14 billion deal secures its US future and signals a middle ground in the fraught US-China tech rivalry.Dominika Zarzycka/NurPhoto via Getty Images\r\n<ul><li>President Donald… [+5175 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Grace Kay",
+        "title": "Tesla's org chart: These are the executives in charge at Elon Musk's car company",
+        "description": "At least 10 Tesla executives left Elon Musk's company in the last 12 months. A review of the EV maker's internal org chart shows who remains.",
+        "url": "https://www.businessinsider.com/tesla-org-chart-executives-elon-musk-2025-9",
+        "urlToImage": "https://i.insider.com/68daf8f61c1f80efbec48b36?width=1200&format=jpeg",
+        "publishedAt": "2025-09-30T10:00:01Z",
+        "content": "Getty images\r\n<ul><li>Elon Musk had 19 direct reports at Tesla as of August.</li><li>At least 10 of Musk's direct reports left Tesla over the past year.</li><li>Tesla's leadership changes follow slum… [+3945 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kotaku"
+        },
+        "author": "Ethan Gach",
+        "title": "One Of 2023’s Best Vampire Survivors Knock-Offs Is Coming Back With New Updates",
+        "description": "Brotato has joined Dead Cells under the supervision of Evil Empire\nThe post One Of 2023’s Best Vampire Survivors Knock-Offs Is Coming Back With New Updates appeared first on Kotaku.",
+        "url": "https://kotaku.com/oblivion-remastered-physical-sale-cheaper-brotato-shinobi-dlc-2000630213",
+        "urlToImage": "https://kotaku.com/app/uploads/2025/09/morn-checkpot-1200x675.jpg",
+        "publishedAt": "2025-09-30T13:56:34Z",
+        "content": "Physical editions aren’t completely dead on Xbox. Chatbots are way too alive, unfortunately. And be still my beating heart, Brotato is coming back from the dead after 12 months without an update. Wel… [+3298 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kotaku"
+        },
+        "author": "Kenneth Shepard",
+        "title": "Overwatch 2 Skin Contest Frontrunners Include A Diaper-Wearing Furry Junkrat And Fans Are Scared It Could Win",
+        "description": "The winners will have a chance to be added to the game as official skins\nThe post Overwatch 2 Skin Contest Frontrunners Include A Diaper-Wearing Furry Junkrat And Fans Are Scared It Could Win appeared first on Kotaku.",
+        "url": "https://kotaku.com/overwatch-2-skin-contest-china-junkrat-furry-diaper-2000630263",
+        "urlToImage": "https://kotaku.com/app/uploads/2025/09/68ce72b409f58ff431376fd4yz8Nj9gX-1200x675.jpg",
+        "publishedAt": "2025-09-30T16:14:58Z",
+        "content": "Im surprised it took Overwatch nearly a decade to have a proper skin creation contest, but Chinese artists are currently competing for the chance to have a costume concept appear in the hero shooter.… [+4333 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hackaday"
+        },
+        "author": "Donald Papp",
+        "title": "LLM Dialogue In Animal Crossing Actually Works Very Well",
+        "description": "In the original Animal Crossing from 2001, players are able to interact with a huge cast of quirky characters, all with different interests and personalities. But after you’ve played the …read more",
+        "url": "https://hackaday.com/2025/09/30/llm-dialogue-in-animal-crossing-actually-works-very-well/",
+        "urlToImage": "https://hackaday.com/wp-content/uploads/2025/09/I-Replaced-Animal-Crossings-Dialogue-with-AI-by-Hacking-GameCube-Memory-0-33-screenshot-banner.png",
+        "publishedAt": "2025-09-30T18:30:52Z",
+        "content": "In the original Animal Crossing from 2001, players are able to interact with a huge cast of quirky characters, all with different interests and personalities. But after you’ve played the game for awh… [+2777 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hipertextual"
+        },
+        "author": "Luis Miranda",
+        "title": "El nuevo AI Mode de Google estrena una función que hará temblar a ChatGPT",
+        "description": "Google ha lanzado una actualización para su buscador que cambiará por completo la forma como realizas consultas en la web. La versión más reciente de la Búsqueda de Google incluye cambios en el AI Mode, la nueva sección que debutó hace unas semanas en América…",
+        "url": "https://hipertextual.com/inteligencia-artificial/ai-mode-busqueda-visual-imagenes/",
+        "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/09/google-ai-mode-imagenes.jpg?fit=1600%2C901&quality=70&strip=all&ssl=1",
+        "publishedAt": "2025-09-30T17:50:00Z",
+        "content": "Google ha lanzado una actualización para su buscador que cambiará por completo la forma como realizas consultas en la web. La versión más reciente de la Búsqueda de Google incluye cambios en el AI Mo… [+3091 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hackaday"
+        },
+        "author": "Al Williams",
+        "title": "Ask Hackaday: What’s the Top Programming Language of 2025",
+        "description": "We did an informal poll around the Hackaday bunker and decided that, for most of us, our favorite programming language is solder. However, [Stephen Cass] over at IEEE Spectrum released their annual…",
+        "url": "https://hackaday.com/2025/09/30/ask-hackaday-whats-the-top-programming-language-of-2025/",
+        "urlToImage": "https://hackaday.com/wp-content/uploads/2019/09/ProgrammingSystem.jpg",
+        "publishedAt": "2025-09-30T11:00:33Z",
+        "content": "We did an informal poll around the Hackaday bunker and decided that, for most of us, our favorite programming language is solder. However, [Stephen Cass] over at IEEE Spectrum released their annual p… [+2035 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hackaday"
+        },
+        "author": "Lewin Day",
+        "title": "A Trail Camera Built With Raspberry Pi",
+        "description": "You can get all kinds of great wildlife footage if you trek out into the woods with a camera, but it can be tough to stay awake all night. However, this is a task you can readily automate, as [Luke…",
+        "url": "https://hackaday.com/2025/09/30/a-trail-camera-built-with-raspberry-pi/",
+        "urlToImage": "https://hackaday.com/wp-content/uploads/2025/09/Weekend-Raspberry-Pi-Zero-Project-with-the-Raspberry-PI-AI-Camera-40-2-screenshot.png",
+        "publishedAt": "2025-09-30T15:30:24Z",
+        "content": "You can get all kinds of great wildlife footage if you trek out into the woods with a camera, but it can be tough to stay awake all night. However, this is a task you can readily automate, as [Luke] … [+751 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hackaday"
+        },
+        "author": "Elliot Williams",
+        "title": "2025 Hackaday Speakers, Round One! And Spoilers",
+        "description": "Supercon is the Ultimate Hardware Conference and you need to be there! Just check out this roster of talks that will be going down. We’ve got something for everyone out there in the Hackday u…",
+        "url": "https://hackaday.com/2025/09/30/2025-hackaday-speakers-round-one-and-spoilers/",
+        "urlToImage": "https://hackaday.com/wp-content/uploads/2025/09/2025_supercon_header.png",
+        "publishedAt": "2025-09-30T17:00:34Z",
+        "content": "Supercon is the Ultimate Hardware Conference and you need to be there! Just check out this roster of talks that will be going down. We’ve got something for everyone out there in the Hackday universe,… [+5543 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Ramzan Karmali",
+        "title": "Market Movers: The rise of China's AI",
+        "description": "Chinese tech stocks like Alibaba (BABA) and Tencent (0700.HK) have been on the up as optimism about developments they're making in Artificial Intelligence...",
+        "url": "https://finance.yahoo.com/video/market-movers-rise-chinas-ai-122822192.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r0miSKg56.02mNLllSIlbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/e5c79d40-9df8-11f0-abdf-82cca2f82257",
+        "publishedAt": "2025-09-30T12:28:22Z",
+        "content": "Can China threaten the US dominance in AI? Well, the Shanghai composite, China's mainland benchmark rose 3% in September alone. It's longest monthly rally since 2017. Why? Well, Asian tech stocks hav… [+6529 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Radek Strnad",
+        "title": "DraftKings (DKNG) Stock Trades Down, Here Is Why",
+        "description": "Shares of fantasy sports and betting company DraftKings (NASDAQ:DKNG) fell 11.2% in the afternoon session after reports of rising competition from prediction...",
+        "url": "https://finance.yahoo.com/news/draftkings-dkng-stock-trades-down-185056598.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/08Lh0Arhf65vSkTfpz3SyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/1675ab1a394bdf01490b430c78dde20b",
+        "publishedAt": "2025-09-30T18:50:56Z",
+        "content": "Shares of fantasy sports and betting company DraftKings (NASDAQ:DKNG) fell 11.2% in the afternoon session after reports of rising competition from prediction platforms Kalshi and Robinhood sparked in… [+2423 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Tom Page, CNN",
+        "title": "‘Dumbphones’ are getting smarter and more premium. Are they the solution for disillusioned phone addicts?",
+        "description": "The feature phone market is contracting, but a healthy marketplace for premium models is catering to people who want to make the change with fewer...",
+        "url": "https://www.cnn.com/world/dumphones-feature-phones-spc",
+        "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/7957514ff724898a65a390370621967c",
+        "publishedAt": "2025-09-30T08:15:02Z",
+        "content": "The odds are youre reading this on your phone. You may have come here via social media, the CNN app, an email or a good old-fashioned browser. The chances are you did not open your smartphone with th… [+10680 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Nick Lichtenberg",
+        "title": "Ford CEO on his ‘epiphany’ after talking to his Gen Z factory workers: They were saying they ‘had to have three jobs’",
+        "description": "During the UAW strike of 2023, Farley said he was shocked by what he heard: “Old-timers in our plants were saying, ‘It’s no longer a career, Mr. Farley.’”",
+        "url": "https://finance.yahoo.com/news/ford-ceo-epiphany-talking-gen-161600158.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.R86cIoV9Z.8raSoEpEdbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/b89355bd739109178a4b20bd389baffc",
+        "publishedAt": "2025-09-30T16:16:00Z",
+        "content": "Ford CEO Jim Farley delivered an urgent message at the companys Ford Pro Accelerate event on Tuesday, revealing a personal epiphany about the crisis facing Gen Z and the wider blue-collar workforce t… [+3728 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slate Magazine"
+        },
+        "author": "Doree Shafrir",
+        "title": "I’m Knew Suing My Employer Would Be Uncomfortable. But This Aspect Is Excruciating.",
+        "description": "I'm in agony.",
+        "url": "https://slate.com/advice/2025/09/work-advice-suing-my-work.html",
+        "urlToImage": "https://compote.slate.com/images/74ebd02c-b418-4b82-89e8-4a687df22f7c.jpeg?crop=2000%2C1333%2Cx0%2Cy0&width=1560",
+        "publishedAt": "2025-09-30T18:00:04Z",
+        "content": "Good Jobis Slates advice column on work. Have a workplace problem big or small? Send it to Laura Helmuth and Doree Shafrir here. (Its anonymous!)\r\nDear Good Job,\r\nI am currently in a legal dispute wi… [+7154 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Javier Lacort",
+        "title": "Microsoft abraza el ‘vibe working’: ha lanzado el Excel y Word que se controlan con prompts",
+        "description": "Microsoft está intentando trasladar el fenómeno del 'vibe coding' —escribir apps sin saber programar, solo con instrucciones a un chatbot— al trabajo de oficina. La apuesta es que cualquiera pueda hacer en minutos lo que antes requería horas de un consultor j…",
+        "url": "https://www.xataka.com/robotica-e-ia/microsoft-abraza-vibe-working-ha-lanzado-excel-word-que-se-controlan-prompts",
+        "urlToImage": "https://i.blogs.es/b6a4cf/m365-blog_09292025_agentmode_hero_v9/840_560.jpeg",
+        "publishedAt": "2025-09-30T09:17:00Z",
+        "content": "Microsoft está intentando trasladar el fenómeno del 'vibe coding' escribir apps sin saber programar, solo con instrucciones a un chatbot al trabajo de oficina. La apuesta es que cualquiera pueda hace… [+3601 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "John Parkinson, Lauren Peller, Allison Pecorin",
+        "title": "Congressional leaders continue blame game as clock ticks toward shutdown",
+        "description": "As the clock ticks down towards a government shutdown, 150 House Democrats rallied on the House steps Tuesday morning ahead of a midnight government funding deadline.",
+        "url": "https://abcnews.go.com/Politics/congressional-leaders-continue-blame-game-clock-ticks-shutdown/story?id=126083610",
+        "urlToImage": "https://i.abcnewsfe.com/a/cac102b0-7d5a-4290-9488-46714c2c97a0/dems-8-ap-gmh-250930_1759248771067_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2025-09-30T16:55:36Z",
+        "content": "In remarks on the Senate floor Tuesday, party leaders continued to point fingers at one another as time ticked closer to the midnight deadline for the government to shut down if Congress can't pass a… [+5271 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "WATCH: President Trump calls on Hamas to accept peace proposal",
+        "description": "The president called on Hamas to accept what he called an \"extremely fair\" proposal to end the war in Gaza and return the hostages to Israel.",
+        "url": "https://abcnews.go.com/Politics/video/president-trump-calls-hamas-accept-proposal-peace-126076078",
+        "urlToImage": "https://i.abcnewsfe.com/a/b24290cf-97da-4719-b350-85cca676de3a/250930_abc_social_trump_hamas_hpMain_9x16.jpg?w=992",
+        "publishedAt": "2025-09-30T13:27:25Z",
+        "content": "<ul><li>Hegseth rails against 'woke,' lays out standards in speech to top generals\r\n</li><li>Countdown to possible government shutdown\r\n</li><li>Trump meets with Netanyahu\r\n</li><li>New details in de… [+4499 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "WATCH: Carnival ride malfunctions at California school event",
+        "description": "Riders were reportedly trapped for up to an hour after a carnival ride malfunction at a school event in Southern California. No injuries were reported.",
+        "url": "https://abcnews.go.com/US/video/carnival-ride-malfunctions-california-school-event-126076257",
+        "urlToImage": "https://i.abcnewsfe.com/a/5c3652c2-741e-4be9-9345-a4d760d8a5de/250930_abc_social_carnival_hpMain_9x16.jpg?w=992",
+        "publishedAt": "2025-09-30T13:27:19Z",
+        "content": "<ul><li>Hegseth rails against 'woke,' lays out standards in speech to top generals\r\n</li><li>Countdown to possible government shutdown\r\n</li><li>Trump meets with Netanyahu\r\n</li><li>New details in de… [+4499 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "ChatGPT may alert police on suicidal teens",
+        "description": "OpenAI announces 120-day plan to strengthen ChatGPT safeguards for teens, including parental controls and expert council on AI wellbeing.",
+        "url": "https://www.foxnews.com/tech/chatgpt-may-alert-police-suicidal-teens",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/open-ai-chatgpt-mental-health-guardrails.jpg",
+        "publishedAt": "2025-09-30T14:28:09Z",
+        "content": "ChatGPT could soon alert police when teens discuss suicide. OpenAI CEO and co-founder Sam Altman revealed the change during a recent interview. ChatGPT, the widely used artificial intelligence chatbo… [+6597 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Cheryl Eddy",
+        "title": "SAG-AFTRA Hits Back on ‘AI Actress’, But Galactus’ Response Is Better",
+        "description": "Marvel star Ralph Ineson had some choice words for the people trying to make 'synthetic performer' Tilly Norwood happen in Hollywood.",
+        "url": "https://gizmodo.com/ai-actress-tilly-norwood-backlash-ralph-ineson-sag-aftra-2000665638",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/09/RalphIneson-1200x675.jpg",
+        "publishedAt": "2025-09-30T17:00:51Z",
+        "content": "By now you’ve seen images of the doe-eyed “synthetic performer” named “Tilly Norwood.” The AI fabrication made headlines over the weekend when it was revealed (via Deadline) that some talent agents w… [+2094 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Bruce Gil",
+        "title": "OpenAI Says ChatGPT Can Already Do Some Work Tasks as Well as Humans",
+        "description": "OpenAI’s latest study argues that today’s top models already rival humans on real-world tasks, though it swears they won’t fully replace us.",
+        "url": "https://gizmodo.com/openai-says-chatgpt-can-already-do-some-work-tasks-as-well-as-humans-2000665593",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/OpenAI-logo-on-a-laptop-1200x675.jpg",
+        "publishedAt": "2025-09-30T17:40:59Z",
+        "content": "OpenAI is trying to make the case that AI can actually be useful at work, as some recent studies have shown that companies arent getting much out of their AI investments.\r\nOn Tuesday, the ChatGPT-mak… [+4267 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "James Pero",
+        "title": "Amazon Has Several New Echo Speakers for You to Bark Commands At",
+        "description": "A new Echo Dot Max and Echo Studio have upgraded hardware and, of course, come with Alexa+ on board.",
+        "url": "https://gizmodo.com/amazon-has-several-new-echo-speakers-for-you-to-bark-commands-at-2000665442",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Amazon-Echo-Speakers-and-Smart-Display-20251-1200x675.jpg",
+        "publishedAt": "2025-09-30T16:00:54Z",
+        "content": "Amazon is back with a few new Echo speakers. Debuting alongside a swath of new Ring doorbell and Blink security cameras, family of new Fire TVs, and the new Kindle Scribe Colorsoft, Amazon revealed t… [+2409 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Kyle Barr",
+        "title": "Logitech MX Master 4 Review: Haptics Schmaptics, It’s Still the Best Mouse",
+        "description": "The latest MX Master 4 is like the popular MX Master 3, but with haptics. It's still a really great productivity mouse.",
+        "url": "https://gizmodo.com/logitech-mx-master-4-review-still-the-best-mouse-2000664841",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/09/logitech-mx-master-4-review-2-1200x675.jpg",
+        "publishedAt": "2025-09-30T07:01:18Z",
+        "content": "There is no perfect mouse. Even Logitechs long-rumored MX Master 4 and its tried-and-tested blend of form and function wont be everybodys everything. A mouse is merely a computer controller, one that… [+9188 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Antonsten.com"
+        },
+        "author": "Anton Sten",
+        "title": "AI will happily design the wrong thing for you",
+        "description": "AI tools are incredible leverage, but they amplify whatever you bring to them. If you don't understand the problem you're solving, AI just helps you build the wrong thing more efficiently.",
+        "url": "https://www.antonsten.com/articles/ai-will-happily-design-the-wrong-thing-for-you/",
+        "urlToImage": "https://www.antonsten.com/images/og/ai-will-happily-design-the-wrong-thing-for-you.png",
+        "publishedAt": "2025-09-30T15:20:37Z",
+        "content": "I need to clear something up about my book, Products People Actually Want. When I write about how anyone can build anything now, some people assume Im anti-AI. That I think these tools are ruining de… [+5212 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Workweave.dev"
+        },
+        "author": null,
+        "title": "Hiring only senior engineers is killing companies",
+        "description": "Weave combines LLMs and domain-specific machine learning to understand engineering work.",
+        "url": "https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies",
+        "urlToImage": "https://framerusercontent.com/images/Vzoo61afQyTPrOsaqF08LVkXzMw.png",
+        "publishedAt": "2025-09-30T03:17:57Z",
+        "content": "In the last 3 months, I've interviewed 134 engineers - students, mid-level, seniors and even CTOs. \r\nMy main takeaway: there is a huge pool of exceptional junior engineersthat most companies wont eve… [+9392 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Leaningtech.com"
+        },
+        "author": null,
+        "title": "BrowserPod: In-browser full-stack environments for IDEs and Agents via WASM",
+        "description": "BrowserPod is a WebAssembly-based, client-side container technology that brings full-stack development environments to the browser. Pods run multiple processes with real concurrency, have a persistent block filesystem, and public HTTP endpoints via Portals. L…",
+        "url": "https://labs.leaningtech.com/blog/browserpod-annoucement.html",
+        "urlToImage": "https://labs.leaningtech.com/_astro/browserpod-hero.BuWwKhjE.png",
+        "publishedAt": "2025-09-30T14:42:18Z",
+        "content": "Were excited to introduce BrowserPod a WebAssembly-based, in-browser container technology that runs full-stack development environments across multiple languages.\r\nBrowserPod is a generalised, more p… [+6176 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Refactoringenglish.com"
+        },
+        "author": null,
+        "title": "The Software Essays That Shaped Me",
+        "description": "I started reading software blogs before I got my first programming job 20 years ago. At this point, I've read thousands of blog posts and essays, but a small handful stuck in my mind and changed the way I think about software.",
+        "url": "https://refactoringenglish.com/blog/software-essays-that-shaped-me/",
+        "urlToImage": "https://refactoringenglish.com/blog/software-essays-that-shaped-me/Stupidest_Dialog_Ever.webp",
+        "publishedAt": "2025-09-30T14:01:53Z",
+        "content": "by Michael Lynch, published\r\nSeptember 30, 2025\r\nI started reading software blogs before I got my first programming job 20 years ago. At this point, I’ve read thousands of blog posts and essays about… [+18650 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Github.io"
+        },
+        "author": "Agnishom  Chattopadhyay",
+        "title": "An Opinionated Critique of Duolingo",
+        "description": "beyond the green owl, from streaks and potions to pedagogy and politics",
+        "url": "https://agnishom.github.io/blog/2025/duolingo/",
+        "urlToImage": null,
+        "publishedAt": "2025-09-30T13:19:53Z",
+        "content": "During the stay-at-home grim days of 2020, I started learning Spanish on Duolingo. Having a working understanding of Spanish seemed like a sensible first step towards opening a taco truck in Mexico, … [+11661 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Openai.com"
+        },
+        "author": null,
+        "title": "Sora 2",
+        "description": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.",
+        "url": "https://openai.com/index/sora-2/",
+        "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/1Q8NDmnyavsoPAKDlWpW18/a1f595376097668d1772c9cac40fc8ee/16_x_9____1_.png?w=1600&h=900&fit=fill",
+        "publishedAt": "2025-09-30T17:04:25Z",
+        "content": "Today were releasing Sora 2, our flagship video and audio generation model.\r\nThe original Sora model from February 2024 was in many ways the GPT1 moment for videothe first time video generation start… [+12687 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Frankchimero.com"
+        },
+        "author": "Frank Chimero, Frank Chimero",
+        "title": "Frank Chimero: I think we're in the lemon stage of the internet",
+        "description": "Frank Chimero’s Personal Website",
+        "url": "https://frankchimero.com/blog/2025/selling-lemons/",
+        "urlToImage": null,
+        "publishedAt": "2025-09-30T14:14:28Z",
+        "content": "Ive been researching a new talk the last few weeks and along the way stumbled across a concept thats been rattling around in my head. I am writing to share, because I find it a satisfying description… [+8180 chars]"
+      },
+      {
+        "source": {
+          "id": "buzzfeed",
+          "name": "Buzzfeed"
+        },
+        "author": "Leyla Mohammed",
+        "title": "Serena Williams’s Husband, Alexis Ohanian, Spoke Out After She Was Accused Of Displaying “Fake Outrage” And “Using Victimhood For Currency” When She Called Out A Hotel’s Cotton Plant",
+        "description": "“How do we feel about cotton as decoration? Personally, for me, it doesn’t feel great,” Serena said as she filmed a vase holding a cotton plant in the hallway of her hotel.View Entire Post ›",
+        "url": "https://www.buzzfeed.com/leylamohammed/alexis-ohanian-defends-serena-williams-cotton-plant-backlash",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-09/30/12/thumb/3iomCuvbJ.jpg?crop=1250:654;0,20%26downsize=1250:*",
+        "publishedAt": "2025-09-30T15:02:27Z",
+        "content": "He then shared a screenshot of an AI-generated explanation of the Radcliffe Bailey sculptures symbolism, which you can view here. In short, the text states that the cotton was used by Bailey not only… [+100 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "heise online"
+        },
+        "author": "Ilona Krause",
+        "title": "heise-Angebot: iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
+        "description": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.",
+        "url": "https://www.heise.de/news/iX-Workshop-Wireshark-Deep-Dive-Netzwerkprobleme-gezielt-loesen-10665888.html",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/9/4/2/6/1/8/wireshark-fuer-fortgeschrittene_ticker-1920x1080px-f3930977286aa0fa.png",
+        "publishedAt": "2025-09-30T10:00:00Z",
+        "content": "Im Workshop Wireshark für Fortgeschrittene tauchen Admins und Entwickler noch tiefer in die Welt der Netzwerkanalyse ein. Anhand echter, anonymisierter Fallbeispielen lernen die Teilnehmenden, wie si… [+1781 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "heise online"
+        },
+        "author": "Eva-Maria Weiß",
+        "title": "SB 53: Kalifornien hat ein neues KI-Gesetz",
+        "description": "Kalifornien hat ein neues KI-Gesetz. Dagegen können auch Donald Trump und die Lobbygruppen der KI-Anbieter nichts mehr tun.",
+        "url": "https://www.heise.de/news/SB-53-Kalifornien-hat-ein-neues-KI-Gesetz-10679210.html",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/9/4/7/4/0/6/shutterstock_2345949869-085dec460313be0e.jpg",
+        "publishedAt": "2025-09-30T08:14:00Z",
+        "content": "Obwohl Donald Trump jegliche Regulierung untersagt hat, die zulasten von KI-Unternehmen gehen könnte, gibt es in Kalifornien nun ein neues KI-Gesetz. Es ist bei weitem nicht das einzige Gesetz, das i… [+2815 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "heise online"
+        },
+        "author": "Nico Jurran",
+        "title": "Alexa+: Amazons neue Assistentin ist endlich final",
+        "description": "Bereits Ende 2023 präsentierte Amazon seine verbesserte Assistentin, nun \"Alexa+\". Zumindest in den USA hat sie Marktreife erreicht.",
+        "url": "https://www.heise.de/news/Alexa-Amazons-neue-Assistentin-ist-endlich-final-10688612.html",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/9/4/8/1/6/9/IMG_9903-20ae2960331b36f9.png",
+        "publishedAt": "2025-09-30T18:47:00Z",
+        "content": "Mit dem Erfolg von ChatGPT &amp; Co war es nur eine Frage der Zeit, bis Amazon sein \"klassisches\" Sprachassistenzsysteme Alexa mit einem neuen KI-Modell pimpt, um natürliche Konversationen zu ermögli… [+3452 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ryan Christoffel",
+        "title": "Sora launches on App Store for iPhone video creation from ChatGPT maker",
+        "description": "OpenAI has just launched its second iPhone app, Sora, alongside the very popular ChatGPT. Sora is a brand new standalone app for AI video creation. Here are the details.\n\n\n\n more…",
+        "url": "https://9to5mac.com/2025/09/30/sora-launches-on-app-store-for-video-creation-from-chatgpt-maker/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/sora-app-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-09-30T16:58:52Z",
+        "content": "OpenAI has just launched its second iPhone app, Sora, alongside the very popular ChatGPT. Sora is a brand new standalone app for AI video creation. Here are the details.\r\nSora is OpenAIs video creati… [+1827 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Marcus Mendes",
+        "title": "Opera releases Neon, its AI-powered browser with a built-in agent",
+        "description": "Following its official announcement in May, Opera will today start giving access to Neon, its subscription-based AI browser with agentic capabilities. Here are some of its most interesting features.\n\n\n\n more…",
+        "url": "https://9to5mac.com/2025/09/30/opera-releases-neon-its-ai-powered-browser-with-a-built-in-agent/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/opera-neon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-09-30T08:00:00Z",
+        "content": "Following its official announcement in May, Opera will today start giving access to Neon, its subscription-based AI browser with agentic capabilities. Here are some of its most interesting features.\r… [+3810 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ryan Christoffel",
+        "title": "iOS 26.1 release date: Here’s when to expect the next iPhone update",
+        "description": "iOS 26.0.1 just arrived this week, but the next more substantive iPhone update coming is iOS 26.1. It’s in beta testing now, but a public launch isn’t far off. Here’s the expected iOS 26.1 release date.\n\n\n\n more…",
+        "url": "https://9to5mac.com/2025/09/30/ios-26-1-release-date-heres-when-to-expect-the-next-iphone-update/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iOS-26.1-when.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-09-30T18:54:47Z",
+        "content": "iOS 26.0.1 just arrived this week, but the next more substantive iPhone update coming is iOS 26.1. Its in beta testing now, but a public launch isnt far off. Heres the expected iOS 26.1 release date.… [+2155 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Police"
+        },
+        "author": "Mark Jansen",
+        "title": "Google Play Sidekick risks becoming Clippy for Android",
+        "description": "Hi, it seems you're playing a game",
+        "url": "https://www.androidpolice.com/google-play-sidekick-risks-becoming-clippy-for-android/",
+        "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/09/collage-with-microsoft-s-clippy-character-and-green-android-mascots-surrounding-the-google-play-sidekick-panel-with-neon-green-accents-glowing.png?w=1600&h=900&fit=crop",
+        "publishedAt": "2025-09-30T13:07:10Z",
+        "content": "It seems nary a day can pass without someone trying to cram AI where it wasn't before.\r\nGoogle's latest attempt to justify spending billions on a Chinese room machine is the Play Games Sidekick. It's… [+4871 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Police"
+        },
+        "author": "Jay Bonggolto",
+        "title": "Google brings Gemini to drive on Android and iOS for smarter file summaries",
+        "description": "Stop searching your Google Drive",
+        "url": "https://www.androidpolice.com/gemini-finally-arrives-on-google-drive-for-android-ios/",
+        "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/02/gemini-to-sift-through-google-drive.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2025-09-30T06:36:26Z",
+        "content": "It used to be difficult to find what you needed in Google Drive. Summarizing reports or collecting insights from different files often meant scrolling through long documents, switching between files,… [+1885 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Police"
+        },
+        "author": "Jay Bonggolto",
+        "title": "Google might be prepping ‘Home Brief’ to turn daily alerts into smarter summaries",
+        "description": "Ending smart home notification chaos",
+        "url": "https://www.androidpolice.com/google-home-app-code-revealed-a-new-home-brief-feature/",
+        "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/04/google-home-logo-on-a-wooden-table-with-warning-signs-around-it.png?w=1600&h=900&fit=crop",
+        "publishedAt": "2025-09-30T02:54:33Z",
+        "content": "Our smart homes have become a bit chatty. The constant pinging from your doorbell camera every time a leaf blows by or the security alert when your pet cat stages a heist on the kitchen counter is tu… [+2046 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rock Paper Shotgun"
+        },
+        "author": "Edwin Evans-Thirlwell",
+        "title": "EA's new owners are making \"a huge bet\" on generative AI cost-cutting to help repay a $20 billion loan, claims report",
+        "description": "Yesterday, a group of moneyfolk including private equity firm Silver Lake, Saudi Arabia's Public Investment Fund, and Donald Trump son-in-law Jared Kushner's Affinity Partners unveiled plans to acquire Electronic Arts for an estimated $55 billion. \n\nThe buyer…",
+        "url": "https://www.rockpapershotgun.com/eas-new-owners-are-making-a-huge-bet-on-generative-ai-cost-cutting-to-help-repay-a-20-billion-loan-claims-report",
+        "urlToImage": "https://assetsio.gnwcdn.com/1_3nEgwgq.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "publishedAt": "2025-09-30T10:24:06Z",
+        "content": "Yesterday, a group of moneyfolk including private equity firm Silver Lake, Saudi Arabia's Public Investment Fund, and Donald Trump son-in-law Jared Kushner's Affinity Partners unveiled plans to acqui… [+3230 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rock Paper Shotgun"
+        },
+        "author": "James Archer",
+        "title": "Batman, good boys, and space whale texting: all the other Gamescom games I saw but didn’t have time to write about",
+        "description": "It’s been a month since Gamescom 2025 lowered its shutters and sent ninety thousand nerds squeezing into the tiny Cologne tram station outside. In newsworthiness terms, a month’s time is roughly equivalent to five millennia, so this roundup of all the games I…",
+        "url": "https://www.rockpapershotgun.com/batman-good-boys-and-space-whale-texting-all-the-other-gamescom-games-i-saw-but-didnt-have-time-to-write-about",
+        "urlToImage": "https://assetsio.gnwcdn.com/Gamescom-2025-roundup.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "publishedAt": "2025-09-30T15:23:15Z",
+        "content": "It’s been a month since Gamescom 2025 lowered its shutters and sent ninety thousand nerds squeezing into the tiny Cologne tram station outside. In newsworthiness terms, a month’s time is roughly equi… [+16262 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Jared Blikre",
+        "title": "Beyond Nvidia: How to spot the next AI breakout for your portfolio",
+        "description": "Listen and subscribe to Stocks In Translation on Apple Podcasts, Spotify, or wherever you find your favorite podcast. Nvidia (NVDA) is stealing the AI...",
+        "url": "https://finance.yahoo.com/video/beyond-nvidia-spot-next-ai-100055195.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IH0m2dJfpDRNk9pxmX4d1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/47043e40-9d6a-11f0-b337-181cf1108c1e",
+        "publishedAt": "2025-09-30T10:00:55Z",
+        "content": "Welcome to Stocks and Translation, Yahoo Finance's video podcast that cuts through the market mayhem, the noisy numbers, and the hyperbole to give you the information you need to make the right trade… [+26073 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Meta to buy chip startup Rivos for AI effort, source says",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_063a2120-266d-43b2-b5a4-251e04ade670",
+        "urlToImage": null,
+        "publishedAt": "2025-09-30T17:53:11Z",
+        "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Preston Fore",
+        "title": "Nvidia’s CEO Jensen Huang says electricians and plumbers will be needed by the hundreds of thousands in the new working world",
+        "description": "The $4 trillion tech CEO warns the future won’t be powered by tech bros—but rather the blue-collar workers.",
+        "url": "https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-says-145838012.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/OXr4a3qnYYReTq57M.HMxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/6e9accd44facdba7702b9a7859967d9c",
+        "publishedAt": "2025-09-30T14:58:38Z",
+        "content": "Gen Z keeps being told their chances of landing a job are slim as AI threatens entry-level jobs. But in reality, Nvidia’s CEO Jensen Huang says, there are thousands of jobs for young people, thanks t… [+3395 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Sridatri Sarkar",
+        "title": "How Quantum Computing Is Positioned to Drive Long-Term Growth",
+        "description": "QUBT expands government ties, ships new products, and scales its Tempe chip foundry to drive growth.",
+        "url": "https://finance.yahoo.com/news/quantum-computing-positioned-drive-long-134000827.html",
+        "urlToImage": "https://media.zenfs.com/en/zacks.com/197b5c2fa3339542af117a4a723e66a2",
+        "publishedAt": "2025-09-30T13:40:00Z",
+        "content": "Quantum Computing Inc. QUBT or OCi’s long-term growth is primarily driven by two areas – its quantum computing systems and thin-film lithium niobate photonic chip foundry. Earlier in 2025, the compan… [+2805 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.jp"
+        },
+        "author": "R.Mitsubori",
+        "title": "YouTube Musicで曲のトリビアなど教えてくれる「AI DJ」運用開始",
+        "description": "Image:Shutterstock一度は試してみたい。Google（グーグル）傘下のYouTubeは、が9月26日に「ユーザーが最先端のAI実験を試用できる新しい方法」として、新たに「YouTubeLabs」を開設したと発表しました。Googleは検索エンジンでのAI検索モードを導入しているほか、AIに関連した新機能をメンバー向けにテストする「GoogleLabs」を展開中。YouTubeLab",
+        "url": "https://www.gizmodo.jp/2025/09/youtube-labs.html",
+        "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/09/30/shutterstock_2366378647.jpg?w=1280&h=630&f=jpg",
+        "publishedAt": "2025-09-30T13:00:00Z",
+        "content": "GoogleYouTube926AIYouTube Labs\r\nGoogleAIAIGoogle LabsYouTube LabsGoogle LabsYouTube\r\nYouTube LabsAIDJ \r\nSpotifyAI DJAI DJ\r\nYouTubeAI\r\nAIDJ1 \r\nSource: TeckRador"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.jp"
+        },
+        "author": "mayumine",
+        "title": "「企業の半数以上が社内構造を見直す方向」AI導入に関する最新調査",
+        "description": "Image:ShutterstockAIの進化と、テック業界で最近相次ぐレイオフ。これは無関係なはずがありません。コーダーの人材市場が冷え込んでいる現状も無視できず、ノンエンジニアでも、自動化されたアシスタントを利用してウェブサイトやプロダクトを作成することができる、いわゆる「バイブコーディング」が広まっていることも起因しているのだと思います。AIによって組織再編を検討する企業は55%メディア、テ",
+        "url": "https://www.gizmodo.jp/2025/09/study-claims-over-half-of-tech-firms-are-considering-restructuring-thanks-to-ai.html",
+        "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/09/30/250930_ai.jpg?w=1280&h=630&f=jpg",
+        "publishedAt": "2025-09-30T00:00:00Z",
+        "content": "AI\r\nAI55%\r\nSource5518AI\r\nAIAITMT32\r\nAI\r\n2024AIAI\r\nAI\r\nMITAI250AI\r\nSource Global Research The Register\r\nSource: Source, Fortune"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.jp"
+        },
+        "author": "ワタナベダイスケ",
+        "title": "これならウチの商売でもすぐ使える。3分でわかるCopilot+ PC活用術",
+        "description": "Image:日本HP「これからの時代のビジネスに、AI活用は必須」っていうのはよく聞くし、「PCでAIを使うなら、Copilot+PCがオススメ」と聞いたこともある。でも「Copilot+PCって何ができるの？どう使いこなせばいいの？」と疑問に思っている人は少なくないはず。情報の検索は当たり前、文章作りや翻訳、画像の生成まで高精度でやってくれるっていうのはわかるんだけれど、どういう場面でどんなふう",
+        "url": "https://www.gizmodo.jp/2025/09/hp-copilot-plus-pc.html",
+        "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/09/29/hp_main_04.jpg?w=1280&h=630&f=jpg",
+        "publishedAt": "2025-09-30T08:00:00Z",
+        "content": "AIPCAICopilot+ PCCopilot+ PC\r\nCopilot+ PCHPCopilot+ PC3\r\nCopilot+ PC\r\nWindows \r\nImage: HP\r\nPCCopilot+ PC\r\nPC\r\nOK PCWebPC\r\nPC\r\n Windows Copilot+ PC\r\nImage: HP\r\nCopilot+ PC Windows \r\nImage: HP\r\n8\r\nAI\r\n… [+397 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.jp"
+        },
+        "author": "お買いものサポーター",
+        "title": "もう地デジの画質に絶望しない。レグザエンジンZRIIがノイズを消し去る #Amazonセール",
+        "description": "Amazon（アマゾン）で毎日開催されているタイムセール。\n\n本日2025年9月30日は、大迫力の映像表現が魅力的なREGZA（レグザ）の4K液晶レグザ「Z5 series Z570L 43V型」がお得に登場しています。",
+        "url": "https://www.gizmodo.jp/2025/09/amazon-timesale-2025-0930-3.html",
+        "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/09/30/GIZ.png?w=1280&h=630&f=jpg",
+        "publishedAt": "2025-09-30T09:55:00Z",
+        "content": "Amazon\r\n2025930REGZA4KZ5 series Z570L 43V\r\n4KZ5 series Z570L 43V69,800ZRII\r\nZRII\r\nREGZA4KZ5 series Z570L 43V7%69,800\r\n40W\r\nDolby Atmos\r\nGOOD\r\nAI\r\nPrime VideoNetflix\r\nFPS\r\nAmazon\r\n202593017\r\n12AmazonA… [+52 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.jp"
+        },
+        "author": "湯木進悟",
+        "title": "Googleが創造する新たなPCとは？ Chrome OSとの決別を語る",
+        "description": "Image:RaymondWong/GizmodoUSPC新時代がやってくる！パソコンはWindowsかMacの二強…いや、Chromebookがあるじゃないか？この選択肢に違和感を覚える人も少なくないようです。だって、Chromebookをパソコンと呼ぶには、あまりにもできることが限られますから。でも、それが大きく変わりますよ。ChromeOSとの決別が意味するものすでにGoogle（グーグル）",
+        "url": "https://www.gizmodo.jp/2025/09/android-needs-to-remember-its-roots-before-it-can-become-a-pc.html",
+        "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/09/29/250929lenovo-chromebook-plus01.jpg?w=1280&h=630&f=jpg",
+        "publishedAt": "2025-09-30T10:30:00Z",
+        "content": "PC\r\nWindowsMacChromebookChromebook\r\nChrome OS\r\nGoogleChrome OSAndroid1\r\nhttps://gizmodo.com/android-needs-to-remember-its-roots-before-it-can-become-a-pc-2000663369\r\nQualcommSnapdragon SummitGoogleAn… [+342 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.jp"
+        },
+        "author": "お買いものサポーター",
+        "title": "Xiaomiの最新スマホ「15T Pro」が実質10万円切り！ プロ級撮影できるから狩ろう",
+        "description": "楽天市場では、最大50％と高ポイント還元イベント「楽天スーパーDEAL」を開催中。\n現在、ライカ共同開発のトリプルカメラと最先端のAI機能を搭載した新作スマートフォン「Xiaomi 15T Pro」や、12.1インチの大画面が特長的なタブレット「REDMI Pad 2 Pro」など、Xiaomi（シャオミ）のアイテムがお得に登場しています。",
+        "url": "https://www.gizmodo.jp/2025/09/rakuten-sale-2025-0930-1.html",
+        "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/09/30/20250930xiaomi_gizrakuten.jpg?w=1280&h=630&f=jpg",
+        "publishedAt": "2025-09-30T07:55:00Z",
+        "content": "50DEAL\r\nAIXiaomi 15T Pro12.1REDMI Pad 2 ProXiaomi\r\nXiaomi 15T Pro9AI\r\n2025926XiaomiXiaomi 15T Pro9MediaTekDimensity 9400+10\r\nIP68\r\nXiaomi HyperAIFeliCaIC\r\n XiaomiREDMI Pad 2 Pro10\r\n12.12.5KXiaomiREDM… [+350 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Corin Cesaric",
+        "title": "New Ring Cameras Can Detect Solicitors and Find Your Missing Dog, Amazon Says",
+        "description": "Amazon announced three key new features today for its Ring cameras. If they work as promised, it could be groundbreaking for you and your pet.",
+        "url": "https://www.cnet.com/home/security/new-ring-cameras-can-detect-solicitors-and-find-your-missing-dog-amazon-says/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/80df1d272858bc77c04d897fe150d27f40c9bb92/hub/2025/09/30/d00277c7-f32c-4cc5-b224-57b66c819ace/screenshot-2025-09-30-at-12-27-19pm.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-09-30T16:35:00Z",
+        "content": "Salesman knocking on your door for the third time this week? UPS driver delivering another package? Or worst case scenario, your beloved dog is missing? Your Ring camera can handle it all now, Amazon… [+1770 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yanko Design"
+        },
+        "author": "Sarang Sheth",
+        "title": "RIP Sous Vide… This AI-Powered Oven Can Precisely Reverse-Sear And Slow-Cook Anything",
+        "description": "RIP Sous Vide… This AI-Powered Oven Can Precisely Reverse-Sear And Slow-Cook AnythingThe Kickstarter kitchen gadget scene has been flooded with “smart” devices that promise to revolutionize home cooking, but most end up being overpriced versions of...",
+        "url": "https://www.yankodesign.com/2025/09/29/rip-sous-vide-this-ai-powered-oven-can-precisely-reverse-sear-and-slow-cook-anything/",
+        "urlToImage": "https://www.yankodesign.com/images/design_news/2025/09/draft-agari/Agari_Michelin_Chef_Quality_Oven_at_a_Push_of_a_Button_10.jpg",
+        "publishedAt": "2025-09-30T01:45:40Z",
+        "content": "The Kickstarter kitchen gadget scene has been flooded with “smart” devices that promise to revolutionize home cooking, but most end up being overpriced versions of things we already have. Air fryers … [+8557 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yanko Design"
+        },
+        "author": "Aki Ukita",
+        "title": "Xiaomi Pad Mini Review: Compact, Powerful, and Ready for Anything",
+        "description": "Xiaomi Pad Mini Review: Compact, Powerful, and Ready for AnythingTablets promise the power and flexibility of a computer in a friendlier, more portable shape. In reality, though, my experience is often different. My 11-inch...",
+        "url": "https://www.yankodesign.com/2025/09/30/xiaomi-pad-mini-review-compact-powerful-and-ready-for-anything/",
+        "urlToImage": "https://www.yankodesign.com/images/design_news/2025/09/xiaomi-pad-mini-review-compact-powerful-and-ready-for-anything/xiaomi-pad-mini-review-08.jpg",
+        "publishedAt": "2025-09-30T15:20:55Z",
+        "content": "PROS:\r\n<ul><li>Lightweight, ultra-portable design with a premium build</li><li>Great multitasking with flexible split and floating apps</li><li>2 USB-C ports with pass-through charging</li><li>Excell… [+12703 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yanko Design"
+        },
+        "author": "Sarang Sheth",
+        "title": "Logitech’s MX Master 4 Hands-On: Where Haptic Feedback Finally Makes Sense",
+        "description": "Logitech’s MX Master 4 Hands-On: Where Haptic Feedback Finally Makes SenseThe MX Master series has always been about empowering creative professionals and developers who spend their days wrestling with demanding workflows. Logitech’s latest iteration, the...",
+        "url": "https://www.yankodesign.com/2025/09/30/logitechs-mx-master-4-hands-on-where-haptic-feedback-finally-makes-sense/",
+        "urlToImage": "https://www.yankodesign.com/images/design_news/2025/09/581842/logitech_mx_master_4_1.jpeg",
+        "publishedAt": "2025-09-30T07:01:34Z",
+        "content": "The MX Master series has always been about empowering creative professionals and developers who spend their days wrestling with demanding workflows. Logitech’s latest iteration, the MX Master 4, arri… [+4244 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yanko Design"
+        },
+        "author": "Gaurav Sood",
+        "title": "Jony Ive teams up with Balmuda to create limited edition sailing lantern",
+        "description": "Jony Ive teams up with Balmuda to create limited edition sailing lanternEver since Jony Ive left Apple, there has been a lull, with a suggestion that something big is being cooked behind closed doors. OpenAI and...",
+        "url": "https://www.yankodesign.com/2025/09/30/jony-ive-teams-up-with-balmuda-to-create-limited-edition-sailing-lantern/",
+        "urlToImage": "https://www.yankodesign.com/images/design_news/2025/09/john-ive-teams-up-with-balmuda-to-create-limited-edition-sailing-lantern/Balmuda-X-LoveFrom-Sailing-Lantern-3.jpg",
+        "publishedAt": "2025-09-30T13:20:21Z",
+        "content": "Ever since Jony Ive left Apple, there has been a lull, with a suggestion that something big is being cooked behind closed doors. OpenAI and Ives venture, io, have been working in close quarters on a … [+3093 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Windows Central"
+        },
+        "author": "zac.bowden@futurenet.com (Zac Bowden) , Zac Bowden",
+        "title": "Opera is next in line to release an AI-powered web browser that costs money to use",
+        "description": "Opera Neon is yet another AI-powered web browser designed to make browsing the web easier with agentic AI experiences and capabilities, but it'll cost $20 a month.",
+        "url": "https://www.windowscentral.com/software-apps/opera-is-next-in-line-to-release-an-ai-powered-web-browser-that-costs-money-to-use",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/RWG9RVzEtMc6rwpqvjhX4c-2560-80.jpg",
+        "publishedAt": "2025-09-30T11:11:37Z",
+        "content": "Opera has released Neon, its new AI-powered web browser that's been built from the ground up with agentic AI experiences and features in mind. Opera is the latest to build an AI-powered browser, join… [+1920 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Windows Central"
+        },
+        "author": "mhuck@live.com (Mauro Huculak) , Mauro Huculak",
+        "title": "Microsoft drops 7 new Insider features for Windows 11 for September 2025 — here are the best ones (and why we like them)",
+        "description": "Windows 11 Insider builds in the Beta, Dev, and Canary Channels bring improvements for Click to Do, Taskbar, Spotlight, and more in September 2025.",
+        "url": "https://www.windowscentral.com/microsoft/windows-11/4-new-features-available-in-the-windows-11-insider-program-for-the-end-of-september-2025",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/56f6FFU9kb2kvUYdrDJasA-2560-80.png",
+        "publishedAt": "2025-09-30T17:31:43Z",
+        "content": "September is already coming to an end, so let's take a look at the new features and improvements that Insiders have received for Windows 11 through the Windows Insider Program.\r\nSince my last roundup… [+4270 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Windows Central"
+        },
+        "author": "ben.wilson@windowscentral.com (Ben Wilson) , Ben Wilson",
+        "title": "The Xbox Ally X is a bargain, actually — ASUS and Microsoft's gaming handheld is a better deal than Steam's most popular desktop PC",
+        "description": "The Xbox Ally X is a promising collab between ASUS ROG and Microsoft, priced at a surprisingly reasonable £799.99 in the UK. Here's why I'll ditch my Steam Deck for this premium handheld.",
+        "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/xbox-ally-x-bargain-better-deal-than-steam-most-popular-pc",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/fpqjLjfRhPCiyQq6a5afg6-2177-80.jpg",
+        "publishedAt": "2025-09-30T17:00:00Z",
+        "content": "I'm a confessed convert to Windows-based gaming handhelds, triggered by ASUS' ROG Ally. Eventually, after a wild trip to the expensive fringe with MSI's Claw 8 AI+, I realized that Valve's otherwise … [+6801 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Schneier.com"
+        },
+        "author": "Bruce Schneier",
+        "title": "Use of Generative AI in Scams",
+        "description": "New report: “Scam GPT: GenAI and the Automation of Fraud.”\nThis primer maps what we currently know about generative AI’s role in scams, the communities most at risk, and the broader economic and cultural shifts that are making people more willing to take risk…",
+        "url": "https://www.schneier.com/blog/archives/2025/10/use-of-generative-ai-in-scams.html",
+        "urlToImage": null,
+        "publishedAt": "2025-09-30T16:41:49Z",
+        "content": "New report: “Scam GPT: GenAI and the Automation of Fraud.”\nThis primer maps what we currently know about generative AI’s role in scams, the communities most at risk, and the broader economic and cult… [+636 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Itainews.com"
+        },
+        "author": "damono3856",
+        "title": "【北海道】「あいつらマジで殺してやろうかな」母親を通し25歳弟を脅迫か　電話で「あいつらを殺してやる。家を燃やしてやる」29歳男逮捕",
+        "description": "1 名前：ぐれ ★：2025/09/29(月) 22:14:06.67 ID:zjrmKhOm9.net\n\n\n\n\n\n\n\n「あいつらマジで殺してやろうかな」母親を通して25歳の弟を脅迫か　電話で「あいつらを殺してやる。家を燃やしてやる」29歳の男を逮捕#北海道放送 #hbcnews | @HBCnewsJNN | @HBChokkaidohttps://...",
+        "url": "https://itainews.com/archives/2053649.html",
+        "urlToImage": "https://livedoor.blogimg.jp/dqnplus/imgs/2/b/2b227164-s.png",
+        "publishedAt": "2025-09-30T08:01:20Z",
+        "content": "2: 2025/09/29() 22:15:00.82 ID:3n7ZgWQf0\r\n3: 2025/09/29() 22:17:15.23 ID:tWjr7x/T0\r\n4: 2025/09/29() 22:19:10.02 ID:++fT9rxA0\r\n5: 2025/09/29() 22:19:43.59 ID:hLAxvxqn0\r\n6: 2025/09/29() 22:20:02.33 ID:… [+1363 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Itainews.com"
+        },
+        "author": "dqnplus",
+        "title": "【話題】結婚式のご祝儀“1万円”の衝撃「かなりのマイナスです…」",
+        "description": "1 ：ひぃぃ ★：2025/09/28(日) 22:22:22.42 ID:aGtXAbAh9.net\n\n\n\n\n\n\n\n\n\n結婚式のご祝儀「1万円」の衝撃　「かなりのマイナスです」親友と疎遠になった女性 https://t.co/kCD7gZUz4B　その程度のもんやったんやろ— tomo (@tomo630) September 28, 2025 \n\n\n\n\n\n\n\n\n\n\n\n\n結...",
+        "url": "https://itainews.com/archives/2053629.html",
+        "urlToImage": "https://livedoor.blogimg.jp/dqnplus/imgs/a/5/a5193c03-s.png",
+        "publishedAt": "2025-09-30T02:01:32Z",
+        "content": "2: 2025/09/28() 22:23:39.75 ID:mI6gcPcl0\r\n3: 2025/09/28() 22:23:59.35 ID:yt5jbnud0\r\n7: 2025/09/28() 22:24:57.62 ID:JlXkW/D60\r\n8: 2025/09/28() 22:25:11.71 ID:okcWK4ey0\r\n9: 2025/09/28() 22:25:17.28 ID:… [+1525 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Itainews.com"
+        },
+        "author": "damono3856",
+        "title": "【ファミレス】ガストの100gステーキが写真詐欺？客がX投稿も...割れる見解　運営会社「苦情数件、マニュアル改善中」",
+        "description": "1 名前：ぐれ ★：2025/09/29(月) 22:43:35.73 ID:zjrmKhOm9.net\n\n\n\n\n\n\n\nガストの100gステーキが写真詐欺？客がX投稿も...割れる見解　運営会社「苦情数件、マニュアル改善中」#ガスト #写真詐欺 https://t.co/IRbQT2SPMz— J-CASTニュース (@jcast_news) September 29, ...",
+        "url": "https://itainews.com/archives/2053650.html",
+        "urlToImage": "https://livedoor.blogimg.jp/dqnplus/imgs/b/f/bff21150-s.png",
+        "publishedAt": "2025-09-30T09:02:25Z",
+        "content": "2: 2025/09/29() 22:44:46.94 ID:6dh5f4+q0\r\n8: 2025/09/29() 22:46:31.74 ID:lVpwCFUN0\r\n11: 2025/09/29() 22:47:04.95 ID:DdfTH5um0\r\n7: 2025/09/29() 22:45:51.43 ID:60ochueQ0\r\n9: 2025/09/29() 22:46:35.20 ID… [+1645 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Journal du geek"
+        },
+        "author": "Jason Filankembo",
+        "title": "WhatsApp s’enrichit et fait encore plus de place à l’IA et la photo",
+        "description": "Vous pouvez découvrir plusieurs nouveautés aussi bien sur iOS que sur Android.",
+        "url": "https://www.journaldugeek.com/2025/09/30/whatsapp-senrichit-et-fait-encore-plus-de-place-a-lia-et-la-photo/",
+        "urlToImage": "https://www.journaldugeek.com/app/uploads/2025/09/WhatsApp-Android-1600x900.jpg",
+        "publishedAt": "2025-09-30T14:36:02Z",
+        "content": "Meta n’aime pas se contenter du statu quo avec WhatsApp. L’application de messagerie instantanée est régulièrement agrémentée de fonctionnalités. WhatsApp propose depuis peu la traduction des message… [+2306 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Theregister.com"
+        },
+        "author": "Dan Robinson",
+        "title": "IBM killing mainframe coding kit for PCs this year",
+        "description": "Linux-based System z emulator will go away on Dec. 31, replaced by cloud-based solution from ISVs\nIBM is killing off a mainframe coding toolkit for PCs and withdrawing all support, directing developers to instead use a cloud-hosted environment for dev and tes…",
+        "url": "https://www.theregister.com/2025/09/30/ibm_system_z_dead/",
+        "urlToImage": "https://regmedia.co.uk/2022/04/28/shutterstock_powerswitch.jpg",
+        "publishedAt": "2025-09-30T18:46:06Z",
+        "content": "IBM is killing off a mainframe coding toolkit for PCs and withdrawing all support, directing developers to instead use a cloud-hosted environment for dev and test purposes.\r\nIn a notice issued on Sep… [+3389 chars]"
+      }
+    ]
+  }
+]
