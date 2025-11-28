@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unite Tech Updates – {{ $json.currentMonth }}</title>
+    <link rel="icon" href="./images/unite-icon.ico" type="image/x-icon" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* (same CSS as before) */
+        :root {
+            --primary-color: #dc3545;
+            --secondary-color: #0d6efd;
+            --light-bg: #f8f9fa;
+            --border-radius: 0.5rem;
+            --transition: all 0.3s ease;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--light-bg);
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary-color), #e35d6a);
+            color: white;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 2rem;
+            text-align: center;
+        }
+
+        .header-icon {
+            width: 200px;
+            height: 100px;
+            object-fit: scale-down;
+            border-radius: 0.5rem;
+            padding: 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        header h1 {
+            font-weight: 700;
+            margin: 0;
+            font-size: 2.5rem;
+            text-align: center;
+        }
+
+        .content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .section {
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+            margin-bottom: 2rem;
+            padding: 1.5rem;
+            background: white;
+            border-radius: var(--border-radius);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+            transition: var(--transition);
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .section:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .section img {
+            width: 300px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: var(--border-radius);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .section-content {
+            flex: 1;
+        }
+
+        .section h2 {
+            color: var(--secondary-color);
+            margin-top: 0;
+            margin-bottom: 1rem;
+            font-weight: 600;
+            font-size: 1.75rem;
+        }
+
+        .section p {
+            color: #495057;
+            margin: 0;
+            font-size: 1.1rem;
+            line-height: 1.7;
+        }
+
+        @media (max-width: 768px) {
+            header {
+                flex-direction: column;
+                gap: 1rem;
+                padding: 1rem;
+            }
+
+            .header-icon {
+                width: 160px;
+                height: 80px;
+            }
+
+            header h1 {
+                font-size: 2rem;
+            }
+
+            .section {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .section img {
+                width: 100%;
+                height: auto;
+                margin-bottom: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <a href="index.html" class="newsletter-link">
+            <img src="./images/unite-logo.png" alt="Newsletter Icon" class="header-icon">
+        </a>
+        <h1>Tech Updates - November 2025</h1>
+    </header>
+    <div class="content">
+        <a href="https://www.wired.com/story/talk-to-chatgpt-for-free-inside-whatsapp/" class="section"
+            target="_blank" rel="noopener noreferrer"> <img
+                src="https://media.wired.com/photos/69135a99b2a49dd7cbf5671f/191:100/w_1280,c_limit/gear-whatsapp-chatgpt-2237775692.jpg"
+                alt="How to Talk to ChatGPT for Free Inside WhatsApp (While You Still Can)">
+            <div class="section-content">
+                <h2>How to Talk to ChatGPT for Free Inside WhatsApp (While You Still Can)</h2>
+                <p>Meta's messaging app offers free access to the AI chatbot, but only until January 2026.</p>
+            </div>
+        </a> <a href="https://www.wired.com/story/data-center-ai-boom-us-economy-jobs/" class="section"
+            target="_blank" rel="noopener noreferrer"> <img
+                src="https://media.wired.com/photos/690928b72b2e4892c20c307e/191:100/w_1280,c_limit/Model-Behavior-AI-Infrastructure-Spending-Business.jpg"
+                alt="The AI Data Center Boom Is Warping the US Economy">
+            <div class="section-content">
+                <h2>The AI Data Center Boom Is Warping the US Economy</h2>
+                <p>Microsoft, Alphabet, Meta, and Amazon are investing tens of billions in data centers. AI
+                    infrastructure is now a key driver of US economic growth.</p>
+            </div>
+        </a> <a
+            href="https://www.theverge.com/column/815681/optimizer-ai-translation-google-translate-pocketalk-timekettle"
+            class="section" target="_blank" rel="noopener noreferrer"> <img
+                src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/translators3.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200"
+                alt="Lost in AI translation">
+            <div class="section-content">
+                <h2>Lost in AI translation</h2>
+                <p>This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song
+                    that dissects and discusses the latest phones, smartwatches, apps, and other gizmos that swear
+                    they're going to change your life. Optimizer arrives in our subscr…</p>
+            </div>
+        </a> <a href="https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
+            class="section" target="_blank" rel="noopener noreferrer"> <img
+                src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/236806_Getty_Images_AI_Images_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                alt="Stability AI’s legal win over Getty leaves copyright law in limbo">
+            <div class="section-content">
+                <h2>Stability AI’s legal win over Getty leaves copyright law in limbo</h2>
+                <p>Stability AI, the creator of popular AI art tool Stable Diffusion, was largely victorious against
+                    Getty Images on Tuesday in a British legal battle over the material used to train AI models. The
+                    case originally looked set to produce a landmark ruling on AI an…</p>
+            </div>
+        </a>
+        <a href="https://www.wired.com/story/open-ai-artificial-intelligence-open-weight-model/" class="section"
+            target="_blank" rel="noopener noreferrer"> <img
+                src="https://media.wired.com/photos/6892470d24d6ebd159a1794e/191:100/w_1280,c_limit/OpenAI-Open-Weight-Model-Boon-for-Department-of-Defense-Business-1234996321.jpg"
+                alt="OpenAI’s Open-Weight Models Are Coming to the US Military">
+            <div class="section-content">
+                <h2>OpenAI’s Open-Weight Models Are Coming to the US Military</h2>
+                <p>The gpt-oss models are being tested for use on sensitive military computers. But some defense
+                    insiders say that OpenAI is still behind the competition.</p>
+            </div>
+        </a> <a href="https://www.wired.com/story/bradley-tusk-mobile-voting-protocol/" class="section"
+            target="_blank" rel="noopener noreferrer"> <img
+                src="https://media.wired.com/photos/691232dd8a1f796e4ba188d1/191:100/w_1280,c_limit/Backchannel-Bradley-Tusk-Vote-on-Phones-Business-2184035350.jpg"
+                alt="Inside the Multimillion-Dollar Plan to Make Mobile Voting Happen">
+            <div class="section-content">
+                <h2>Inside the Multimillion-Dollar Plan to Make Mobile Voting Happen</h2>
+                <p>Political consultant Bradley Tusk has spent a fortune on mobile voting efforts. Now, he’s launching a
+                    protocol to try to mainstream the technology.</p>
+            </div>
+        </a> <a href="https://www.theverge.com/news/816341/ploopy-nano-2-open-source-trackball-button-qmk"
+            class="section" target="_blank" rel="noopener noreferrer"> <img
+                src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ploopy_nano2_1.jpg?quality=90&strip=all&crop=0%2C10.740817330438%2C100%2C78.518365339124&w=1200"
+                alt="Ploopy’s smallest open-source trackball now includes a button">
+            <div class="section-content">
+                <h2>Ploopy’s smallest open-source trackball now includes a button</h2>
+                <p>Canadian-based Ploopy announced the Nano 2 on Friday. It’s an update to the ultra-compact Nano
+                    trackball featuring a new button, improved performance, and a USB-C port that replaces the
+                    original’s chunky USB-B port. The company made a similar upgrade with its…</p>
+            </div>
+        </a> <a href="https://www.theverge.com/tech/813944/browser-wars-chatgpt-gemini-chrome" class="section"
+            target="_blank" rel="noopener noreferrer"> <img
+                src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258018_browser_wars_CVirginia13.jpg?quality=90&strip=all&crop=0%2C10.704090241901%2C100%2C78.591819516198&w=1200"
+                alt="WEB WAR III">
+            <div class="section-content">
+                <h2>WEB WAR III</h2>
+                <p>OpenAI didn't plan to make a browser. Not at first, anyway. But ever since the company launched
+                    ChatGPT, it started to see lots of users do the same thing. "You'd have this tab open on
+                    chatgpt.com, and you'd be working on something else somewhere in your brow…</p>
+            </div>
+        </a> 
+        <a href="https://www.wired.com/story/nvidia-third-quarter-2026-earnings/" class="section" target="_blank"
+            rel="noopener noreferrer"> <img
+                src="https://media.wired.com/photos/691cbe7e6c9e033305e9f35a/191:100/w_1280,c_limit/Nvidia-Earnnings-Blackwell-AI-Chip-Business-2244922892.jpg"
+                alt="Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical">
+            <div class="section-content">
+                <h2>Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical</h2>
+                <p>Record sales, a strong financial forecast, and CEO Jensen Huang’s impassioned arguments on his
+                    company's earnings call weren’t enough to push Nvidia shares back to their October high.</p>
+            </div>
+        </a> <a href="https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting" class="section"
+            target="_blank" rel="noopener noreferrer"> <img
+                src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Jason_and_Lucia_02_With_Logos_landscape.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+                alt="GTA VI developer accused of union busting in mass firings">
+            <div class="section-content">
+                <h2>GTA VI developer accused of union busting in mass firings</h2>
+                <p>Rockstar Games, the developer of Grand Theft Auto VI, fired between 30 to 40 employees on Thursday,
+                    as previously reported by Bloomberg. According to the Independent Workers’ Union of Great Britain
+                    (IWGB), all of the employees fired were part of a private t…</p>
+            </div>
+        </a> <a
+            href="https://www.theverge.com/news/819835/google-android-sideloading-experienced-users-developer-verification"
+            class="section" target="_blank" rel="noopener noreferrer"> <img
+                src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                alt="Google will let ‘experienced users’ keep sideloading Android apps">
+            <div class="section-content">
+                <h2>Google will let ‘experienced users’ keep sideloading Android apps</h2>
+                <p>Google says that it’s softening its plan to require every Android developer — even outside of the
+                    Play Store — to verify their identity, a move which critics warned could kill sideloading for good.
+                    The company now says it’s developing a workflow to allow “exp…</p>
+            </div>
+        </a> <a href="https://gizmodo.com/privacy-focused-bitcoin-developer-gets-5-year-prison-sentence-2000683106"
+            class="section" target="_blank" rel="noopener noreferrer"> <img
+                src="https://gizmodo.com/app/uploads/2025/11/gavel-1200x675.jpg" alt="Privacy-Focused Bitcoin
+                Developer Gets 5-Year Prison Sentence">
+            <div class="section-content">
+                <h2>Privacy-Focused Bitcoin Developer Gets 5-Year Prison Sentence</h2>
+                <p>Some people in the crypto community see the case as egregious at a time when shitcoin peddlers get
+                    favorable treatment.</p>
+            </div>
+        </a> <a
+            href="https://gizmodo.com/crypto-founder-defends-fbi-involvement-after-developer-accidentally-causes-blockchain-split-2000690899"
+            class="section" target="_blank" rel="noopener noreferrer"> <img
+                src="https://gizmodo.com/app/uploads/2025/11/crypto_money-1200x675.jpg" alt="Crypto Founder Defends
+                FBI Involvement After Developer Accidentally Causes Blockchain Split">
+            <div class="section-content">
+                <h2>Crypto Founder Defends FBI Involvement After Developer Accidentally Causes Blockchain Split</h2>
+                <p>Innocent pen testing mistake or premeditated attack?</p>
+            </div>
+        </a>
+    </div>
+</body>
+
+</html>
