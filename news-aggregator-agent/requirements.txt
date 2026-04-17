@@ -1,0 +1,19 @@
+# News Aggregator Agent Dependencies
+# Pin versions to avoid breaking changes during preview
+
+# Agent Framework
+agent-framework-azure-ai==1.0.0rc3
+agent-framework-core==1.0.0rc3
+
+# HTTP server
+uvicorn>=0.27.0
+fastapi>=0.109.0
+
+# HTTP client for API calls
+httpx>=0.26.0
+
+# Date handling
+python-dateutil>=2.8.2
+
+# Environment variables
+python-dotenv>=1.0.0

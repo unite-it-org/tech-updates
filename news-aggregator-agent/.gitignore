@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Versioned HTML output files (e.g., Apr-26-v1.html, Apr-26-v2.html)
+*v*.html
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
