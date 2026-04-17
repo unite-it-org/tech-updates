@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,6 +15,7 @@
       --border-radius: 0.5rem;
       --transition: all 0.3s ease;
     }
+
     body {
       font-family: 'Inter', sans-serif;
       margin: 0;
@@ -21,6 +23,7 @@
       background-color: var(--light-bg);
       line-height: 1.6;
     }
+
     header {
       background: linear-gradient(135deg, var(--primary-color), #e35d6a);
       color: white;
@@ -32,6 +35,7 @@
       gap: 2rem;
       text-align: center;
     }
+
     .header-icon {
       width: 200px;
       height: 100px;
@@ -42,12 +46,14 @@
       align-items: center;
       justify-content: center;
     }
+
     header h1 {
       font-weight: 700;
       margin: 0;
       font-size: 2.5rem;
       text-align: center;
     }
+
     .content {
       max-width: 800px;
       margin: 0 auto;
@@ -56,6 +62,7 @@
       flex-direction: column;
       gap: 2rem;
     }
+
     .newsletter-link {
       display: flex;
       align-items: center;
@@ -68,6 +75,7 @@
       text-decoration: none;
       color: inherit;
     }
+
     /* .newsletter-link:hover {
       transform: translateY(-2px);
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -79,6 +87,7 @@
       border-radius: var(--border-radius);
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
+
     .newsletter-calendar {
       width: 80px;
       height: 80px;
@@ -86,39 +95,47 @@
       border-radius: var(--border-radius);
       /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
     }
+
     .newsletter-info h2 {
       color: var(--secondary-color);
       margin: 0 0 0.5rem 0;
       font-weight: 600;
       font-size: 1.5rem;
     }
+
     .newsletter-info p {
       color: #495057;
       margin: 0;
       font-size: 1rem;
     }
+
     @media (max-width: 768px) {
       header {
         flex-direction: column;
         gap: 1rem;
         padding: 1rem;
       }
+
       .header-icon {
         width: 160px;
         height: 80px;
       }
+
       header h1 {
         font-size: 2rem;
       }
+
       .content {
         padding: 1rem;
         gap: 1rem;
       }
+
       .newsletter-link {
         flex-direction: column;
         text-align: center;
         gap: 1rem;
       }
+
       .newsletter-thumb {
         width: 100%;
         height: auto;
@@ -126,12 +143,13 @@
     }
   </style>
 </head>
+
 <body>
   <header>
     <a href="index.html" class="newsletter-link">
-        <img src="./images/unite-logo.png" alt="Newsletter Icon" class="header-icon">
-        
-      </a>
+      <img src="./images/unite-logo.png" alt="Newsletter Icon" class="header-icon">
+
+    </a>
     <h1>Tech Updates</h1>
   </header>
   <div class="content">
@@ -139,72 +157,84 @@
       <img src="images/Mar-26.svg" alt="March 2026" class="newsletter-calendar">
       <div class="newsletter-info">
         <h2>March 2026</h2>
-        <p>AI continues to dominate the tech landscape, with major developments including Allbirds' pivot to AI compute. <more class="">more</more></p>
+        <p>AI continues to dominate the tech landscape, with major developments including Allbirds' pivot to AI compute.
+          <more class="">more</more>
+        </p>
       </div>
     </a>
     <a href="feb-26.html" class="newsletter-link">
       <img src="images/Feb-26.svg" alt="February 2026" class="newsletter-calendar">
       <div class="newsletter-info">
         <h2>February 2026</h2>
-        <p>Explore the latest advancements in AI, including breakthroughs in natural language processing and computer vision.</p>
+        <p>AI dominates with safety concerns, agent platforms, and security issues, while major tech companies face
+          vulnerabilities and legal challenges.</p>
       </div>
     </a>
     <a href="Dec.html" class="newsletter-link">
       <img src="images/December.svg" alt="December 2025" class="newsletter-calendar">
       <div class="newsletter-info">
         <h2>December 2025</h2>
-        <p>Explore the latest advancements in AI, including breakthroughs in natural language processing and computer vision.</p>
+        <p>AI continues rapid advancement with new standards emerging, while tech giants face regulatory and ethical
+          challenges around open source and content.</p>
       </div>
     </a>
     <a href="Nov.html" class="newsletter-link">
       <img src="images/November.svg" alt="November 2025" class="newsletter-calendar">
       <div class="newsletter-info">
         <h2>November 2025</h2>
-        <p>Explore the latest advancements in AI, including breakthroughs in natural language processing and computer vision.</p>
+        <p>AI infrastructure boom warps US economy as OpenAI expands into browsers and military, while regulatory
+          battles over data and content continue.</p>
       </div>
     </a>
     <a href="Oct.html" class="newsletter-link">
       <img src="images/October.svg" alt="October 2025" class="newsletter-calendar">
       <div class="newsletter-info">
         <h2>October 2025</h2>
-        <p>Explore the latest advancements in AI, including breakthroughs in natural language processing and computer vision.</p>
+        <p>California passes first AI disclosure law as sovereign AI becomes US-China battleground, and tech giants push
+          AI-first strategies.</p>
       </div>
     </a>
-        <a href="Sep.html" class="newsletter-link">
+    <a href="Sep.html" class="newsletter-link">
       <img src="images/September.svg" alt="September 2025" class="newsletter-calendar">
       <div class="newsletter-info">
         <h2>September 2025</h2>
-        <p>Explore the latest advancements in AI, including breakthroughs in natural language processing and computer vision.</p>
+        <p>Switzerland launches open-source AI model as major tech companies open-source legacy software and new AI
+          capabilities emerge.</p>
       </div>
     </a>
     <a href="August.html" class="newsletter-link">
       <img src="images/August.svg" alt="August 2025" class="newsletter-calendar">
       <div class="newsletter-info">
         <h2>August 2025</h2>
-        <p>Discover the latest trends in AI ethics, advancements in quantum computing, and major tech announcements from industry leaders.</p>
+        <p>AI transforms industries from Hollywood to security, with major launches like Nvidia's robot brain while
+          facing workforce disruption.</p>
       </div>
     </a>
     <a href="July.html" class="newsletter-link">
       <img src="images/July.svg" alt="July 2025" class="newsletter-calendar">
       <div class="newsletter-info">
         <h2>July 2025</h2>
-        <p>Explore advances in AI-driven governance, quantum machine learning, enterprise automation, and landmark updates from Nvidia, Microsoft, Google, and Alibaba.</p>
+        <p>Global AI adoption accelerates with Gujarat's action plan and US-China GPU policy shifts, while major model
+          updates from Google, xAI, and Anthropic emerge.</p>
       </div>
     </a>
     <a href="June.html" class="newsletter-link">
       <img src="images/June.svg" alt="June 2025" class="newsletter-calendar">
       <div class="newsletter-info">
         <h2>June 2025</h2>
-        <p>Apple Vision Pro global launch, Meta Threads API, Google Gemma update, NVIDIA B100 GPU, Copilot Enterprise, AWS Quantum breakthrough.</p>
+        <p>Major tech unveil next-gen platforms with Vision Pro global launch, NVIDIA Blackwell, and AWS quantum
+          breakthrough leading innovation.</p>
       </div>
     </a>
     <a href="May.html" class="newsletter-link">
       <img src="images/May.svg" alt="May 2025" class="newsletter-calendar">
       <div class="newsletter-info">
         <h2>May 2025</h2>
-        <p>Windows Build news, Google IO, AI in Healthcare, Claude 4, OpenAI Codex, MIT ML Table, LLaMA Factory.</p>
+        <p>Google IO showcases VEO3 and AI Mode as Claude 4 and OpenAI Codex Agent arrive, with MIT's ML Periodic Table
+          advancing research.</p>
       </div>
     </a>
   </div>
 </body>
+
 </html>
