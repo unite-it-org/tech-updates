@@ -4,6 +4,8 @@ Fetches, filters, and formats news from NewsAPI into HTML templates.
 """
 
 import os
+import re
+import math
 import asyncio
 from datetime import datetime, timedelta
 from typing import Annotated, Optional
@@ -19,8 +21,115 @@ from agent_framework.openai import OpenAIChatClient
 NEWS_API_KEY = "1ca9068869d14e7285a539bb0a7c7cf4"
 NEWS_API_BASE_URL = "https://newsapi.org/v2"
 CATEGORIES = ["Artificial Intelligence", "AUTOMOTIVE", "INFORMATION TECHNOLOGY", "SCIENCE", "ART"]
-ARTICLE_COUNT = 15
+ARTICLE_COUNT = 40
 LANGUAGE = "en"
+
+CATEGORY_ALLOCATION = {
+    "Artificial Intelligence": 0.40,
+    "AUTOMOTIVE": 0.10,
+    "INFORMATION TECHNOLOGY": 0.10,
+    "SCIENCE": 0.20,
+    "ART": 0.20,
+}
+
+CATEGORY_ALIASES = {
+    "AI": "Artificial Intelligence",
+    "AUTOMOTIVE": "AUTOMOTIVE",
+    "IT": "INFORMATION TECHNOLOGY",
+    "INFORMATION TECHNOLOGY": "INFORMATION TECHNOLOGY",
+    "SCIENCE": "SCIENCE",
+    "ART": "ART",
+}
+
+CATEGORY_KEYWORDS = {
+    "Artificial Intelligence": [
+        "artificial intelligence",
+        "ai",
+        "machine learning",
+        "ml",
+        "large language model",
+        "llm",
+        "gpt",
+        "gemini",
+        "chatgpt",
+        "openai",
+        "anthropic",
+        "deep learning",
+        "neural network",
+        "agent",
+        "autonomous",
+        "robot",
+        "model training",
+    ],
+    "AUTOMOTIVE": [
+        "automotive",
+        "car",
+        "cars",
+        "vehicle",
+        "vehicles",
+        "ev",
+        "electric vehicle",
+        "autonomous vehicle",
+        "self-driving",
+        "tesla",
+        "ford",
+        "gm",
+        "rivian",
+        "battery",
+        "transportation",
+        "mobility",
+    ],
+    "INFORMATION TECHNOLOGY": [
+        "information technology",
+        "software",
+        "hardware",
+        "cloud",
+        "app",
+        "apps",
+        "developer",
+        "programming",
+        "development",
+        "operating system",
+        "browser",
+        "security",
+        "network",
+        "data center",
+        "infrastructure",
+    ],
+    "SCIENCE": [
+        "science",
+        "research",
+        "study",
+        "experiment",
+        "physics",
+        "chemistry",
+        "biology",
+        "space",
+        "astronomy",
+        "climate",
+        "environment",
+        "quantum",
+        "biology",
+        "biotech",
+        "laboratory",
+    ],
+    "ART": [
+        "art",
+        "culture",
+        "design",
+        "film",
+        "movie",
+        "music",
+        "creative",
+        "gallery",
+        "theater",
+        "artist",
+        "animation",
+        "entertainment",
+        "media",
+        "storytelling",
+    ],
+}
 
 # Template paths
 STATIC_TEMPLATE_PATH = os.path.join(os.path.dirname(__file__), "..", "month_template_year.html")
@@ -29,6 +138,40 @@ OUTPUT_DIR = os.path.dirname(__file__)
 
 # Safety filter keywords
 BLOCKED_KEYWORDS = ["NSFW", "Adult", "adult", "nsfw", "explicit", "violence", "profanity"]
+
+# Parent folder for checking existing articles
+PARENT_DIR = os.path.join(os.path.dirname(__file__), "..")
+
+
+def get_existing_article_urls() -> set[str]:
+    """Get all article URLs from previously generated HTML files in the parent folder."""
+    existing_urls = set()
+    
+    # List of known newsletter HTML files (generated monthly)
+    newsletter_files = [
+        "feb-26.html", "mar-26.html", "Dec.html", "Nov.html", "Oct.html",
+        "Sep.html", "August.html", "July.html", "June.html", "May.html"
+    ]
+    
+    for filename in newsletter_files:
+        filepath = os.path.join(PARENT_DIR, filename)
+        if os.path.exists(filepath):
+            try:
+                with open(filepath, "r", encoding="utf-8") as f:
+                    content = f.read()
+                    # Extract URLs from href attributes (article links)
+                    import re
+                    # Match href="https://..." patterns for article links
+                    urls = re.findall(r'href="(https://[^"]+)"', content)
+                    for url in urls:
+                        # Skip index.html and other non-article links
+                        if not url.endswith("index.html") and "unite-logo" not in url:
+                            existing_urls.add(url)
+            except Exception as e:
+                print(f"Warning: Could not read {filename}: {e}")
+    
+    print(f"Found {len(existing_urls)} existing article URLs from previous months")
+    return existing_urls
 
 
 def get_current_month_year() -> tuple[str, str]:
@@ -144,19 +287,59 @@ def format_static_template(news_content: str, month: str, year: str) -> str:
     return result
 
 
+def is_category_relevant(article: dict, category: str) -> bool:
+    """Validate that the article text is relevant to the requested category."""
+    if not category:
+        return True
+
+    title = article.get("title", "") or ""
+    description = article.get("description", "") or ""
+    content = article.get("content", "") or ""
+    source = article.get("source", {}).get("name", "") or ""
+
+    text = f"{title} {description} {content} {source}".lower()
+    keywords = CATEGORY_KEYWORDS.get(category, [])
+
+    for keyword in keywords:
+        pattern = r"\b" + re.escape(keyword.lower()) + r"\b"
+        if re.search(pattern, text):
+            return True
+
+    return False
+
+
+def allocate_article_counts(total_count: int) -> dict[str, int]:
+    """Allocate the total article count across categories by configured percentages."""
+    allocations = {}
+    fractional = {}
+
+    for category, pct in CATEGORY_ALLOCATION.items():
+        exact = pct * total_count
+        allocations[category] = int(math.floor(exact))
+        fractional[category] = exact - allocations[category]
+
+    remaining = total_count - sum(allocations.values())
+    for category, _ in sorted(fractional.items(), key=lambda item: item[1], reverse=True):
+        if remaining <= 0:
+            break
+        allocations[category] += 1
+        remaining -= 1
+
+    return allocations
+
+
 async def fetch_news(category: str) -> list[dict]:
-    """Fetch news for a specific category from NewsAPI."""
+    """Fetch news for a specific category from NewsAPI and keep only relevant articles."""
     # Calculate date range (last 30 days)
     end_date = datetime.now()
     start_date = end_date - timedelta(days=30)
     
-    # Use 'everything' endpoint which properly supports search queries
     params = {
         "apiKey": NEWS_API_KEY,
         "q": category,
         "language": LANGUAGE,
         "sortBy": "publishedAt",
-        "pageSize": 10,
+        "pageSize": 50,
         "from": start_date.isoformat(),
         "to": end_date.isoformat(),
     }
@@ -170,7 +353,10 @@ async def fetch_news(category: str) -> list[dict]:
             
             if response.status_code == 200:
                 data = response.json()
-                return data.get("articles", [])
+                articles = data.get("articles", [])
+                relevant_articles = [article for article in articles if is_category_relevant(article, category)]
+                safe_articles = [article for article in relevant_articles if is_safe_article(article)]
+                return safe_articles
             else:
                 print(f"Error fetching {category}: {response.status_code}")
                 return []
@@ -179,22 +365,46 @@ async def fetch_news(category: str) -> list[dict]:
             return []
 
 
-async def fetch_all_news() -> list[dict]:
-    """Fetch news from all categories."""
+async def fetch_all_news(exclude_urls: set[str] = None) -> list[dict]:
+    """Fetch news from all categories, allocate by percentage, and exclude duplicates."""
+    allocation_counts = allocate_article_counts(ARTICLE_COUNT)
     tasks = [fetch_news(cat) for cat in CATEGORIES]
     results = await asyncio.gather(*tasks)
     
-    # Flatten and deduplicate
     all_articles = []
     seen_urls = set()
-    
-    for articles in results:
+    exclude_urls = exclude_urls or set()
+
+    for category, articles in zip(CATEGORIES, results):
+        target_count = allocation_counts.get(category, 0)
+        selected_count = 0
+
         for article in articles:
+            if selected_count >= target_count:
+                break
+
             url = article.get("url")
-            if url and url not in seen_urls:
+            if not url or url in seen_urls or url in exclude_urls:
+                continue
+
+            seen_urls.add(url)
+            all_articles.append(article)
+            selected_count += 1
+
+    # If category-specific allocations could not be met, fill remaining slots from any remaining articles.
+    if len(all_articles) < ARTICLE_COUNT:
+        for articles in results:
+            for article in articles:
+                if len(all_articles) >= ARTICLE_COUNT:
+                    break
+                url = article.get("url")
+                if not url or url in seen_urls or url in exclude_urls:
+                    continue
                 seen_urls.add(url)
                 all_articles.append(article)
-    
+            if len(all_articles) >= ARTICLE_COUNT:
+                break
+
     return all_articles
 
 
@@ -203,12 +413,20 @@ def filter_articles(articles: list[dict]) -> list[dict]:
     return [article for article in articles if is_safe_article(article)]
 
 
-async def generate_news_html() -> str:
-    """Main function to fetch, filter, and generate HTML."""
-    print("Fetching news from NewsAPI...")
-    articles = await fetch_all_news()
+async def generate_news_html(existing_urls: set[str] = None) -> str:
+    """Main function to fetch, filter, and generate HTML.
     
-    print(f"Fetched {len(articles)} articles, filtering for family-friendly content...")
+    Args:
+        existing_urls: Set of article URLs from previous months to filter out.
+    """
+    # Get existing article URLs from previous months if not provided
+    if existing_urls is None:
+        existing_urls = get_existing_article_urls()
+    
+    print("Fetching news from NewsAPI...")
+    articles = await fetch_all_news(exclude_urls=existing_urls)
+    
+    print(f"Fetched {len(articles)} new articles (excluding {len(existing_urls)} from previous months), filtering for family-friendly content...")
     filtered_articles = filter_articles(articles)
     
     # Take the top articles (up to ARTICLE_COUNT)
@@ -258,13 +476,19 @@ async def get_tech_news(
     """
     Fetch technology news from NewsAPI for a specific category.
     Returns formatted HTML with family-friendly articles.
+    Automatically filters out articles that appeared in previous months.
     """
     global CATEGORIES
     original_categories = CATEGORIES.copy()
-    CATEGORIES = [category]
+    normalized_category = CATEGORY_ALIASES.get(category.upper(), category)
+    if normalized_category not in CATEGORIES:
+        normalized_category = category
+    CATEGORIES = [normalized_category]
     
     try:
-        html_content = await generate_news_html()
+        # Get existing URLs to avoid duplicates
+        existing_urls = get_existing_article_urls()
+        html_content = await generate_news_html(existing_urls=existing_urls)
         return html_content
     finally:
         CATEGORIES = original_categories
